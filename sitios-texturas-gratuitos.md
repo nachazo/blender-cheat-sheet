@@ -2,7 +2,7 @@
 | -     | :---:            | -        | -           | :---:      | :---:    | :---:     | -     |
 | [BlenderKit](https://www.blenderkit.com/) | `9` | Royalty free y CC0 | ~10.000 | Sí (top) | Sí | No | **Blender add-on** |
 | [AmbientCG](https://ambientcg.com/) | `8` | CC0 | ~2.300 | No | Sí | Sí | - |
-| [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial) | `8` | Gratis. Uso comercial | ~1.200 free | No (pocos) | No | Todos | Necesita Substance 3D o usar **[add-on para Blender]**(https://substance3d.adobe.com/plugins/substance-in-blender/)|
+| [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial) | `8` | Gratis. Uso comercial | ~1.200 free | No (pocos) | No | Todos | Necesita Substance 3D o usar [**add-on para Blender**](https://substance3d.adobe.com/plugins/substance-in-blender/)|
 | [Quixel Megascans](https://quixel.com/megascans/home?category=surface) | `8` | Gratis con Epic, pero **¿¿uso estudiante/no comercial fuera de Unreal??** | ~10.000 | Sí (top) | No | No | Fuera de Unreal, NO uso comercial. Dudas sobre licencia/uso no comercial. |
 | [Poly Haven](https://polyhaven.com/) | `7` | CC0 | ~420 | No | Sí (top) | No | **Blender add-on** |
 | [3dassets.one](https://3dassets.one) | `7` | Meta buscador | ~ | Sí | Sí | Sí | Meta buscador |
