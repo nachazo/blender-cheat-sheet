@@ -8,7 +8,7 @@
 | [sharetextures](https://www.sharetextures.com/) | `7` | CC0 | ~1.475 | No (pocos) | No | No | - |
 | [cgbookcase.com](https://www.cgbookcase.com) | `7` | CC0 | ~530 | No  | No | No | - |
 | [TextureCan](https://www.texturecan.com) | `7` | CC0 | ~600 | No  | No | Sí | - |
-| [Quixel Megascans](https://quixel.com/megascans/home?category=surface) | `?` | Gratis solo para Unreal, de pago | ~10.000 | Sí (top) | No | No | Fuera de UE necesita licencia de pago. |
+| [Quixel Megascans](https://quixel.com/megascans/home?category=surface) | `?` | Gratis solo para Unreal, de pago | ~10.000 | Sí (top) | No | No | Fuera de UE necesita licencia de pago (19$/mes?). |
 | [LotPixel](https://www.lotpixel.com) | `6` | Parte gratis, sí uso comercial | ~1.300 free | No (ninguno gratis) | No | No | - |
 | [PBR Materials](https://pbrmaterials.com/) | `6` | CC0 | ~200 free | No | No | No | - |
 | [CGMood](https://cgmood.com) | `6` | Gratis, no especifica uso comerical | ~320 free | Sí | No | No | Principalmente arquitectura |
