@@ -1,5 +1,7 @@
+**Sitios de texturas gratuitas**
+
 | *Sitio* | *Nota* | *Licencia* | *Nº texturas* | *Assets* | *HDRi* | *sbsar* | *Otros* | 
-| -     | :---:            | -        | -           | :---:      | :---:    | :---:     | -     |
+| -       | :---:  | -          | -             | :---:    | :---:  | :---:   | -       |
 | [BlenderKit](https://www.blenderkit.com/) | `9` | Royalty free y CC0 | ~10.000 | Sí (top) | Sí | No | **Blender add-on** |
 | [AmbientCG](https://ambientcg.com/) | `8` | CC0 | ~2.300 | No | Sí | Sí | - |
 | [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial) | `8` | Gratis, sí uso comercial | ~1.200 free | No (pocos) | No | Todos | Necesita Substance 3D o usar [**add-on para Blender**](https://substance3d.adobe.com/plugins/substance-in-blender/)|
@@ -20,3 +22,11 @@
 | [Texture Ninja](https://texture.ninja/) | `5` | CC0 | ~5.000 | No | No | No | Mucha cantidad, poca calidad, no PBR |
 | [BlendSwap](https://www.blendswap.com/blends/category/21) | `4` | CC0 y CC-By | ~? | Sí  | No | No | Poco ordenado, materiales/assets/escenas sueltos antiguos |
 | [textures.com](https://www.textures.com/free) | `4` | De pago | ~1.300 free | Sí | Sí | Sí | Ya no tiene parte gratis. Lo poco gratis, sí uso comercial |
+
+&nbsp;
+
+**Sitios de assets/modelos gratuitos**
+
+| *Sitio* | *Nota* | *Licencia* | *Nº texturas* | *Assets* | *HDRi* | *sbsar* | *Otros* | 
+| -       | :---:  | -          | -             | :---:    | :---:  | :---:   | -       |
+| [BlenderKit](https://www.blenderkit.com/) | `9` | Royalty free y CC0 | ~10.000 | Sí (top) | Sí | No | **Blender add-on** |
