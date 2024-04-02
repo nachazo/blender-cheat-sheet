@@ -12,6 +12,7 @@
 | [TextureCan](https://www.texturecan.com) | `7` | CC0 | ~600 | No  | No | Sí | - |
 | [Quixel Megascans](https://quixel.com/megascans/home?category=surface) | `?` | Gratis. Licencia solo para Unreal. Fuera, de pago | ~10.000 | Sí (top) | No | No | Fuera de UE **necesita licencia de pago** (19$/mes?). |
 | [LotPixel](https://www.lotpixel.com) | `6` | Parte gratis, sí uso comercial | ~1.300 free | No (ninguno gratis) | No | No | - |
+| [HDRMaps](https://hdrmaps.com/freebies/) | `6` | CC-CBY | ~200 | No | Sí | No | Interesantes HDRi maps. Tiene add-on. |
 | [PBR Materials](https://pbrmaterials.com/) | `6` | CC0 | ~200 free | No | No | No | - |
 | [CGMood](https://cgmood.com) | `6` | Gratis, no especifica uso comerical | ~320 free | Sí | No | No | Principalmente arquitectura |
 | [Polycam Texture Generator](https://poly.cam/tools/ai-texture-generator) | `6` | Gratis, sí uso comercial | ∞ | No | No | No | **Generador por IA**, 768x768 gratis |
@@ -20,13 +21,21 @@
 | [Free PBR](https://freepbr.com/) | `5` | Gratis, NO uso comercial | ~500 | No | No | No | No mucha calidad |
 | [3D Textures](https://3dtextures.me) | `5` | CC0 | ~800 | No | No | No | No mucha calidad |
 | [Texture Ninja](https://texture.ninja/) | `5` | CC0 | ~5.000 | No | No | No | Mucha cantidad, poca calidad, no PBR |
+| [Texture Box](https://texturebox.com/free) | `5` | Gratis, NO uso comercial | ~133 | No | No | Sí | Algunos terrazos interesantes |
 | [BlendSwap](https://www.blendswap.com/blends/category/21) | `4` | CC0 y CC-By | ~? | Sí  | No | No | Poco ordenado, materiales/assets/escenas sueltos antiguos |
 | [textures.com](https://www.textures.com/free) | `4` | De pago | ~1.300 free | Sí | Sí | Sí | Ya no tiene parte gratis. Lo poco gratis, sí uso comercial |
 
 &nbsp;
 
+**Materialize**: https://boundingboxsoftware.com/materialize
+
+*Free stand alone tool for creating PBR materials for use in games from images. You can create an entire material from a single image or import the textures you have and generate the textures you need.*
+
+&nbsp;
+
 **Sitios de assets/modelos gratuitos**
 
-| *Sitio* | *Nota* | *Licencia* | *Nº texturas* | *Assets* | *HDRi* | *sbsar* | *Otros* | 
-| -       | :---:  | -          | -             | :---:    | :---:  | :---:   | -       |
-| [BlenderKit](https://www.blenderkit.com/) | `9` | Royalty free y CC0 | ~10.000 | Sí (top) | Sí | No | **Blender add-on** |
+| *Sitio* | *Nota* | *Licencia* | *Nº assets/modelos* | *Otros* | 
+| -       | :---:  | -          | -                   | :---:   |
+| [Thangs](https://thangs.com) | `7` | Depende, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases). |
+| [Archive3D](https://archive3d.net/) | `6` | Gratis | ~7.200 | Sobretodo arquitectura |
