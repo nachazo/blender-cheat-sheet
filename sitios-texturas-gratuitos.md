@@ -36,6 +36,6 @@
 **Sitios de assets/modelos gratuitos**
 
 | *Sitio* | *Nota* | *Licencia* | *Nº assets/modelos* | *Otros* | 
-| -       | :---:  | -          | -                   | :---:   |
+| -       | :---:  | -          | -                   | -   |
 | [Thangs](https://thangs.com) | `7` | Depende, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases). |
 | [Archive3D](https://archive3d.net/) | `6` | Gratis | ~7.200 | Sobretodo arquitectura |
