@@ -54,6 +54,12 @@
 
 &nbsp;
 
+**Librerías de imagenes gratuitas**: Para fondos, cielos, imagenes de referencia u otros.
+* https://unsplash.com
+* https://pixabay.com/images/search
+* https://dareful.com
+
+&nbsp;
 
 **ActionVFX**: https://www.actionvfx.com/collections/free-vfx/category
 
