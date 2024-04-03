@@ -36,13 +36,16 @@
 **Sitios SOLO de assets/modelos gratuitos**
 
 | *Sitio* | *Nota* | *Licencia* | *Nº assets/modelos* | *Otros* | 
-| -       | :---:  | -          | -                   | -   |
-| [Sketchfab](https://sketchfab.com/) | `9` | Depende, hay de pago, CC-BY, etc | ~740.000 | Tiene [add-on para Blender](https://github.com/sketchfab/blender-plugin/releases). |
+| -       | :---:  | -          | -                   | -       |
+| [Sketchfab](https://sketchfab.com/) | `9` | Varias, hay de pago, CC-BY, etc | ~740.000 | Tiene [add-on para Blender](https://github.com/sketchfab/blender-plugin/releases). |
 | [cgtrader](https://www.cgtrader.com/free-3d-models) | `8` | Gratis, royalty free | ~9.000 | De todo |
-| [Thangs](https://thangs.com) | `8` | Depende, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases). |
-| [Free3D](https://free3d.com/3d-models/) | `7` | De todo, hay free | ~10.000 | - |
-| [Turbosquid](https://www.turbosquid.com) | `7` | De todo, hay free | ~? | - |
-| [MyMiniFactory](https://www.myminifactory.com) | `7` | Depende, CC-BY, no comercial, de pago, etc | ~? | Sobretodo impresión 3D de juegos de mesa |
+| [Thangs](https://thangs.com) | `8` | Varias, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases). |
+| [Free3D](https://free3d.com/3d-models/) | `7` | Varias, hay free | ~10.000 | - |
+| [Turbosquid](https://www.turbosquid.com) | `7` | Varias, hay free | ~? | - |
+| [MyMiniFactory](https://www.myminifactory.com) | `7` | Varias, CC-BY, no comercial, de pago, etc | ~? | Sobretodo impresión 3D de juegos de mesa |
 | [The Plant Library](https://blendermarket.com/products/the-plant-library) | `6` | Gratis, royalty free | ~170 | Vegetación. Tiene [add-on Biome Reader](https://www.geoscatter.com/download.html#biome-reader) |
+| [poly.piza](https://poly.pizza/) | `6` | Varias, hay CC-BY, CC0, etc | ~9.400 | Modelos low poly |
 | [Archive3D](https://archive3d.net/) | `6` | Gratis | ~7.200 | Sobretodo arquitectura |
-| [3D Warehouse](https://3dwarehouse.sketchup.com) | `4` | De todo | ~? | Sobretodo arquitectura |
+| [All3dfree.net](https://www.all3dfree.net) | `6` | Gratis, sí uso comercial | ~? | Sobretodo arquitectura |
+| [Freepik](https://www.freepik.com/3d-models) | `5` | Gratis, sí uso comercial | ~? | Arquitectura |
+| [3D Warehouse](https://3dwarehouse.sketchup.com) | `4` | Varias | ~? | Sobretodo arquitectura |
