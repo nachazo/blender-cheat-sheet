@@ -52,3 +52,9 @@
 | [Freepik](https://www.freepik.com/3d-models) | `5` | Gratis, sí uso comercial | ~? | Arquitectura |
 | [3D Warehouse](https://3dwarehouse.sketchup.com) | `4` | Varias | ~? | Sobretodo arquitectura |
 
+&nbsp;
+
+
+**ActionVFX**: https://www.actionvfx.com/collections/free-vfx/category
+
+*Free footage for VFX.*
