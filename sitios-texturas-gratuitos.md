@@ -37,5 +37,8 @@
 
 | *Sitio* | *Nota* | *Licencia* | *Nº assets/modelos* | *Otros* | 
 | -       | :---:  | -          | -                   | -   |
+| [Sketchfab](https://sketchfab.com/) | `9` | Depende, hay de pago, CC-BY, etc | ~740.000 | Tiene [add-on para Blender](https://github.com/sketchfab/blender-plugin/releases). |
+| [cgtrader](https://www.cgtrader.com/free-3d-models) | `8` | Gratis, royalty free | ~9.000 | De todo |
 | [Thangs](https://thangs.com) | `7` | Depende, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases). |
+| [The Plant Library](https://blendermarket.com/products/the-plant-library) | `6` | Gratis, royalty free | ~170 | Vegetación. Tiene [add-on Biome Reader](https://www.geoscatter.com/download.html#biome-reader) |
 | [Archive3D](https://archive3d.net/) | `6` | Gratis | ~7.200 | Sobretodo arquitectura |
