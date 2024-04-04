@@ -39,6 +39,7 @@
 | -       | :---:  | -          | -                   | -       |
 | [Sketchfab](https://sketchfab.com/) | `9` | Varias, hay de pago, CC-BY, etc | ~740.000 | Tiene [add-on para Blender](https://github.com/sketchfab/blender-plugin/releases) |
 | [cgtrader](https://www.cgtrader.com/free-3d-models) | `8` | Gratis, royalty free | ~9.000 | De todo |
+| [Gscatter](https://store.gscatter.com/assets) | `8` | Gratis, sí uso comercial | 200 | Vegetación de alta calidad. Tiene [add-on para Blender](https://store.gscatter.com/account/gscatter) |
 | [Thangs](https://thangs.com) | `8` | Varias, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases) |
 | [Turbosquid](https://www.turbosquid.com) | `8` | Varias, hay free | ~? | - |
 | [Free3D](https://free3d.com/3d-models/) | `7` | Varias, hay free | ~10.000 | - |
