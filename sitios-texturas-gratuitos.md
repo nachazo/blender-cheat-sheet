@@ -49,6 +49,7 @@
 | [poly.piza](https://poly.pizza/) | `6` | Varias, hay CC-BY, CC0, etc | ~9.400 | Modelos low poly |
 | [Archive3D](https://archive3d.net/) | `6` | Gratis | ~7.200 | Sobretodo arquitectura |
 | [All3dfree.net](https://www.all3dfree.net) | `6` | Gratis, sí uso comercial | ~? | Sobretodo arquitectura |
+| [RenderHub](https://www.renderhub.com/free-3d-models) | `5` | Gratis, NO uso comercial | ~? | Personajes |
 | [Freepik](https://www.freepik.com/3d-models) | `5` | Gratis, sí uso comercial | ~? | Arquitectura |
 | [3D Warehouse](https://3dwarehouse.sketchup.com) | `4` | Varias | ~? | Sobretodo arquitectura |
 
