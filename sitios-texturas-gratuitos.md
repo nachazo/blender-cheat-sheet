@@ -2,15 +2,15 @@
 
 | *Sitio* | *Nota* | *Licencia* | *Nº texturas* | *Assets* | *HDRi* | *sbsar* | *Otros* | 
 | -       | :---:  | -          | -             | :---:    | :---:  | :---:   | -       |
-| [BlenderKit](https://www.blenderkit.com/) | `9` | Royalty free y CC0 | ~10.000 | Sí (top) | Sí | No | **Blender add-on** |
+| [BlenderKit](https://www.blenderkit.com/) | `9` | Royalty free y CC0 | ~10.000 | **Sí** (top) | Sí | No | **Blender add-on** |
 | [AmbientCG](https://ambientcg.com/) | `8` | CC0 | ~2.300 | No | Sí | Sí | - |
 | [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial) | `8` | Gratis, sí uso comercial | ~1.200 free | No (pocos) | No | Todos | Necesita Substance 3D o usar [**add-on para Blender**](https://substance3d.adobe.com/plugins/substance-in-blender/)|
 | [Poly Haven](https://polyhaven.com/) | `7` | CC0 | ~420 | No | Sí (top) | No | **Blender add-on** |
-| [3dassets.one](https://3dassets.one) | `7` | Meta buscador | ~ | Sí | Sí | Sí | Meta buscador |
+| [3dassets.one](https://3dassets.one) | `7` | Meta buscador | ~ | **Sí** | Sí | Sí | Meta buscador |
 | [sharetextures](https://www.sharetextures.com/) | `7` | CC0 | ~1.475 | No (pocos) | No | No | - |
 | [cgbookcase.com](https://www.cgbookcase.com) | `7` | CC0 | ~530 | No  | No | No | - |
 | [TextureCan](https://www.texturecan.com) | `7` | CC0 | ~600 | No  | No | Sí | - |
-| [Quixel Megascans](https://quixel.com/megascans/home?category=surface) | `?` | Gratis. Licencia solo para Unreal. Fuera, de pago | ~10.000 | Sí (top) | No | No | Fuera de UE **necesita licencia de pago** (19$/mes?) |
+| [Quixel Megascans](https://quixel.com/megascans/home?category=surface) | `?` | Gratis. Licencia solo para Unreal. Fuera, de pago | ~10.000 | **Sí** (top) | No | No | Fuera de UE **necesita licencia de pago** (19$/mes?) |
 | [LotPixel](https://www.lotpixel.com) | `6` | Parte gratis, sí uso comercial | ~1.300 free | No (ninguno gratis) | No | No | - |
 | [HDRMaps](https://hdrmaps.com/freebies/) | `6` | CC-CBY | ~200 | No | Sí | No | Interesantes HDRi maps. Tiene add-on |
 | [PBR Materials](https://pbrmaterials.com/) | `6` | CC0 | ~200 free | No | No | No | - |
