@@ -40,13 +40,13 @@
 | [Sketchfab](https://sketchfab.com/) | `9` | Varias, hay de pago, CC-BY, etc | ~740.000 | Tiene [add-on para Blender](https://github.com/sketchfab/blender-plugin/releases) |
 | [cgtrader](https://www.cgtrader.com/free-3d-models) | `8` | Gratis, royalty free | ~9.000 | De todo |
 | [Gscatter](https://store.gscatter.com/assets) | `8` | Gratis, sí uso comercial | 200 | Vegetación. Tiene [add-on para Blender](https://store.gscatter.com/account/gscatter) |
+| [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader) | `8` | Gratis, royalty free | ~170 | Vegetación. Tiene [add-on Biome Reader](https://www.geoscatter.com/download.html#biome-reader) |
 | [Thangs](https://thangs.com) | `8` | Varias, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases) |
 | [Turbosquid](https://www.turbosquid.com) | `8` | Varias, hay free | ~? | - |
 | [Free3D](https://free3d.com/3d-models/) | `7` | Varias, hay free | ~10.000 | - |
 | [Clara.io](https://clara.io/library) | `7` | Dominio público o CC | ~100.000 | - |
 | [MyMiniFactory](https://www.myminifactory.com) | `7` | Varias, CC-BY, no comercial, de pago, etc | ~? | Sobretodo impresión 3D de juegos de mesa |
 | [3DExport](https://es.3dexport.com/free-3d-models) | `7` | Gratis, royalty free | ~13.000 | De todo un poco |
-| [The Plant Library](https://blendermarket.com/products/the-plant-library) | `6` | Gratis, royalty free | ~170 | Vegetación. Tiene [add-on Biome Reader](https://www.geoscatter.com/download.html#biome-reader) |
 | [poly.piza](https://poly.pizza/) | `6` | Varias, hay CC-BY, CC0, etc | ~9.400 | Modelos low poly |
 | [Archive3D](https://archive3d.net/) | `6` | Gratis | ~7.200 | Sobretodo arquitectura |
 | [All3dfree.net](https://www.all3dfree.net) | `6` | Gratis, sí uso comercial | ~? | Sobretodo arquitectura |
