@@ -33,11 +33,11 @@
 
 **· Materialize**: https://boundingboxsoftware.com/materialize
 
-*Free stand alone tool for creating PBR materials for use in games from images. You can create an entire material from a single image or import the textures you have and generate the textures you need.*
+*Aplicación **gratuita** que facilita la conversión de imágenes en mapas de texturas y materiales PBR (Physically Based Rendering) para su uso en entornos 3D.*
 
 **· Quixel Mixer**: https://quixel.com/mixer
 
-*Herramienta de edición de materiales y texturas que permite a los usuarios crear y personalizar materiales fotorealistas de manera intuitiva. De Epic Games (UE). La **licencia** de SUS materiales es la misma que Megascans, si no los usas, gratis.*
+*Herramienta de edición de materiales y texturas que permite a los usuarios crear y personalizar materiales fotorealistas de manera intuitiva. De Epic Games (UE). La **licencia** de SUS materiales es la misma que Megascans, si no los usas, **gratis**.*
 
 **· Adobe Substance 3D**: https://www.adobe.com/es/creativecloud/3d-ar.html
 
