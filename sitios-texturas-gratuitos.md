@@ -37,15 +37,15 @@
 
 **Quixel Mixer**: https://quixel.com/mixer
 
-*xxx*
+*Herramienta de edición de materiales y texturas que permite a los usuarios crear y personalizar materiales fotorealistas de manera intuitiva. De Epic Games (UE). La **licencia** de SUS materiales es la misma que Megascans, si no los usas, gratis.*
 
 **Adobe Substance 3D**: https://www.adobe.com/es/creativecloud/3d-ar.html
 
-*xxx*
+*Suite de herramientas líder en la industria para la creación de materiales, texturas y modelos 3D de alta calidad. **DE PAGO**.*
 
 **ArmorLab & ArmorPaint**: https://armorlab.org & https://armorpaint.org
 
-*xxx*
+*Herramientas de creación y pintura de texturas PBR (Physically Based Rendering) desarrolladas por Armory, que permiten a los usuarios diseñar y texturizar modelos 3D con gran detalle y realismo. **Gratis compilando** desde código fuente: [uno](https://github.com/armory3d/armortools/tree/main/armorlab) y [dos](https://github.com/armory3d/armortools/tree/main/armorpaint)*
 
 &nbsp;
 
