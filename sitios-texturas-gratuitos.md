@@ -1,4 +1,6 @@
-**Sitios de texturas gratuitas**
+## Texturas gratuitas
+
+### Sitios de texturas gratuitas
 
 | *Sitio* | *Nota* | *Licencia* | *Nº texturas* | *Assets* | *HDRi* | *sbsar* | *Otros* | 
 | -       | :---:  | -          | -             | :---:    | :---:  | :---:   | -       |
@@ -27,13 +29,29 @@
 
 &nbsp;
 
+### Aplicaciones
+
 **Materialize**: https://boundingboxsoftware.com/materialize
 
 *Free stand alone tool for creating PBR materials for use in games from images. You can create an entire material from a single image or import the textures you have and generate the textures you need.*
 
+**Quixel Mixer**: https://quixel.com/mixer
+
+*xxx*
+
+**Adobe Substance 3D**: https://www.adobe.com/es/creativecloud/3d-ar.html
+
+*xxx*
+
+**ArmorLab & ArmorPaint**: https://armorlab.org & https://armorpaint.org
+
+*xxx*
+
 &nbsp;
 
-**Sitios SOLO de assets/modelos gratuitos**
+## Assets/modelos gratuitos
+
+### Sitios de SOLO de assets/modelos gratuitos
 
 | *Sitio* | *Nota* | *Licencia* | *Nº assets/modelos* | *Otros* | 
 | -       | :---:  | -          | -                   | -       |
@@ -56,12 +74,19 @@
 
 &nbsp;
 
-**Librerías de imagenes gratuitas**: Para fondos, cielos, imagenes de referencia u otros.
+## Otros
+
+### Librerías de imagenes gratuitas
+
+Para fondos, cielos, imagenes de referencia u otros.
+
 * https://unsplash.com
 * https://pixabay.com/images/search
 * https://dareful.com
 
 &nbsp;
+
+### VFX
 
 **ActionVFX**: https://www.actionvfx.com/collections/free-vfx/category
 
