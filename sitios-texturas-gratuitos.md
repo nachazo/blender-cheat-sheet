@@ -29,7 +29,7 @@
 
 &nbsp;
 
-### Aplicaciones
+### Aplicaciones de texturas
 
 **· Materialize**: https://boundingboxsoftware.com/materialize
 
@@ -73,6 +73,10 @@
 | [3D Warehouse](https://3dwarehouse.sketchup.com) | `4` | Varias | ~? | Sobretodo arquitectura |
 
 &nbsp;
+
+## Add-ons gratuitos
+
+xxx
 
 ## Otros
 
