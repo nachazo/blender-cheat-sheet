@@ -31,21 +31,17 @@
 
 ### Aplicaciones de texturas
 
-**· Materialize**: https://boundingboxsoftware.com/materialize
+* **Materialize**: https://boundingboxsoftware.com/materialize
+  * *Aplicación **gratuita** que facilita la conversión de imágenes en mapas de texturas y materiales PBR (Physically Based Rendering) para su uso en entornos 3D.*
 
-*Aplicación **gratuita** que facilita la conversión de imágenes en mapas de texturas y materiales PBR (Physically Based Rendering) para su uso en entornos 3D.*
+* **Quixel Mixer**: https://quixel.com/mixer
+  * *Herramienta de edición de materiales y texturas que permite a los usuarios crear y personalizar materiales fotorealistas de manera intuitiva. De Epic Games (UE). La **licencia** de SUS materiales es la misma que Megascans, si no los usas, **gratis**.*
 
-**· Quixel Mixer**: https://quixel.com/mixer
+* **Adobe Substance 3D**: https://www.adobe.com/es/creativecloud/3d-ar.html
+  * *Suite de herramientas líder en la industria para la creación de materiales, texturas y modelos 3D de alta calidad. **DE PAGO**.*
 
-*Herramienta de edición de materiales y texturas que permite a los usuarios crear y personalizar materiales fotorealistas de manera intuitiva. De Epic Games (UE). La **licencia** de SUS materiales es la misma que Megascans, si no los usas, **gratis**.*
-
-**· Adobe Substance 3D**: https://www.adobe.com/es/creativecloud/3d-ar.html
-
-*Suite de herramientas líder en la industria para la creación de materiales, texturas y modelos 3D de alta calidad. **DE PAGO**.*
-
-**· ArmorLab & ArmorPaint**: https://armorlab.org & https://armorpaint.org
-
-*Herramientas de creación y pintura de texturas PBR (Physically Based Rendering) desarrolladas por Armory, que permiten a los usuarios diseñar y texturizar modelos 3D con gran detalle y realismo. **Gratis compilando** desde código fuente: [uno](https://github.com/armory3d/armortools/tree/main/armorlab) y [dos](https://github.com/armory3d/armortools/tree/main/armorpaint)*
+* **ArmorLab & ArmorPaint**: https://armorlab.org & https://armorpaint.org
+  * *Herramientas de creación y pintura de texturas PBR (Physically Based Rendering) desarrolladas por Armory, que permiten a los usuarios diseñar y texturizar modelos 3D con gran detalle y realismo. **Gratis compilando** desde código fuente: [uno](https://github.com/armory3d/armortools/tree/main/armorlab) y [dos](https://github.com/armory3d/armortools/tree/main/armorpaint)*
 
 &nbsp;
 
@@ -76,7 +72,25 @@
 
 ## Add-ons gratuitos
 
-xxx
+* **Built-in** (simplemente activar desde Preferences → Add-ons):
+  * *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).
+  * *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.
+  * *Extra Objects*: Más objetos base como base de modelados.
+  * *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
+  * *Bool Tool*: Herramientas más rápidas para booleanas.
+  * *Images as Planes*: Método más sencillo para importar imagenes planas.
+  * *ANT Landscape*: Para hacer terrenos sencillos.
+  * *Real Snow*: Para añadir nieve de forma sencilla.
+  * *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
+  * *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
+* [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Importa miles de materiales y assets.
+* [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
+* **Vegetación**
+  * x
+  * [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
+* **Ambiente**
+  * [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
+  * [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
 
 ## Otros
 
