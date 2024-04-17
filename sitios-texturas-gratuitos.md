@@ -8,6 +8,7 @@
 | [AmbientCG](https://ambientcg.com/) | `8` | CC0 | ~2.300 | No | Sí | Sí | - |
 | [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial) | `8` | Gratis, sí uso comercial | ~1.200 free | No (pocos) | No | Todos | Necesita Substance 3D o usar [**add-on para Blender**](https://substance3d.adobe.com/plugins/substance-in-blender/)|
 | [Poly Haven](https://polyhaven.com/) | `7` | CC0 | ~420 | No | Sí (top) | No | **Blender add-on** |
+| [MaterialX Library AMD](https://matlib.gpuopen.com) | `7` | MIT (Dominio público) | ~450 | No | No | No | - |
 | [3dassets.one](https://3dassets.one) | `7` | Meta buscador | ~ | **Sí** | Sí | Sí | Meta buscador |
 | [sharetextures](https://www.sharetextures.com/) | `7` | CC0 | ~1.475 | No (pocos) | No | No | - |
 | [cgbookcase.com](https://www.cgbookcase.com) | `7` | CC0 | ~530 | No  | No | No | - |
