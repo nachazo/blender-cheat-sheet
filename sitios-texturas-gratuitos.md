@@ -107,6 +107,5 @@ Para fondos, cielos, imagenes de referencia u otros.
 
 ### VFX
 
-**ActionVFX**: https://www.actionvfx.com/collections/free-vfx/category
-
-*Free footage for VFX.*
+* **ActionVFX**: https://www.actionvfx.com/collections/free-vfx/category
+ * *Free footage for VFX.*
