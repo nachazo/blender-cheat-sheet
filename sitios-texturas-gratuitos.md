@@ -88,15 +88,40 @@
   - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
     
 </details>
- 
-* [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Importa miles de materiales y assets.
-* [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
-* **Vegetación**
-  * x
-  * [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
-* **Ambiente**
-  * [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
-  * [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
+
+<details>
+  <summary><b>QoL (calidad de vida)</b></summary>
+
+ - [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
+</details>
+
+<details>
+  <summary><b>Materiales y assets</b></summary>
+
+ - [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Importa miles de materiales y assets.
+</details>
+
+<details>
+  <summary><b>Vegetación</b></summary>
+
+ - [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
+</details>
+
+<details>
+  <summary><b>Ambiente</b></summary>
+
+  - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
+  - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
+</details>
+
+<details>
+  <summary><b>Otros</b></summary>
+</details>
+
+<details>
+  <summary><b>test</b></summary>
+</details>
+
 
 ## Otros
 
