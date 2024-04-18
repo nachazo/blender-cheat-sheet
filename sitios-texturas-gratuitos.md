@@ -4,7 +4,7 @@
 
 | *Sitio* | *Nota* | *Licencia* | *Nº texturas* | *Assets* | *HDRi* | *sbsar* | *Otros* | 
 | -       | :---:  | -          | -             | :---:    | :---:  | :---:   | -       |
-| [BlenderKit](https://www.blenderkit.com/) | `9` | Royalty free y CC0 | ~10.000 | **Sí** (top) | Sí | No | **Blender add-on** |
+| [BlenderKit](https://www.blenderkit.com/) | `8` | Royalty free y CC0 | ~10.000 | **Sí** (top) | Sí | No | Requiere **Blender add-on** |
 | [AmbientCG](https://ambientcg.com/) | `8` | CC0 | ~2.300 | No | Sí | Sí | - |
 | [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial) | `8` | Gratis, sí uso comercial | ~1.200 free | No (pocos) | No | Todos | Necesita Substance 3D o usar [**add-on para Blender**](https://substance3d.adobe.com/plugins/substance-in-blender/)|
 | [Poly Haven](https://polyhaven.com/) | `7` | CC0 | ~420 | No | Sí (top) | No | **Blender add-on** |
