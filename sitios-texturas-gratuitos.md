@@ -98,17 +98,22 @@
 <details>
   <summary><b>Materiales y assets</b></summary>
 
- - [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Importa miles de materiales y assets.
+ - [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Colección de miles de materiales y assets.
+ - [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets.
+ - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets.
+ - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas de Substance 3D.
 </details>
 
 <details>
   <summary><b>Vegetación</b></summary>
-
+ 
+ - [Gscatter](https://store.gscatter.com/account/gscatter): Add-on para vegetación y entorno.
+ - [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
  - [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
 </details>
 
 <details>
-  <summary><b>Ambiente</b></summary>
+  <summary><b>Ambiente e iluminación</b></summary>
 
   - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
   - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
