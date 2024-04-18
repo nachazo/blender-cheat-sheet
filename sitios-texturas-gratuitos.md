@@ -106,22 +106,29 @@
 </details>
 
 <details>
-  <summary><b>Vegetación</b></summary>
+  <summary><b>Vegetación y detalles</b></summary>
  
  - [Gscatter](https://store.gscatter.com/account/gscatter): Add-on para vegetación y entorno.
  - [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
  - [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
  - [Gaea](https://quadspinner.com/download): Software de 3os para generar entornos naturales ([otro](https://www.world-machine.com/)).
+ - [Dynamic Stylized Water](https://dnslv.gumroad.com/l/dynwaterGN): Geonode para agua.
+ - [Bird Generator Setup](https://blenderesse.gumroad.com/l/birdgenerator): Para generar pájaros (por ejemplo de fondo).
+ - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
+ - [Snow + Procedural Ice Generator](https://blendermarket.com/products/free-snow/): Para generar nieve y hielo en superificies.
+ - [Snowify](https://ninodefoq.gumroad.com/l/Snowify): Para generar nieve en superficies (comparar con el nativo).
 </details>
 
 <details>
   <summary><b>Ambiente e iluminación</b></summary>
 
+  - [Sky-Lab](https://blenderlabs.gumroad.com/l/sky-lab): Facilita añadir un cielo con horizonte/sol.
+  - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
+  - [Real Clouds](https://cgcool.gumroad.com/l/pxmfd): Para generar nubes.
   - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
   - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis.
-  - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
-  - [Bird Generator Setup](https://blenderesse.gumroad.com/l/birdgenerator): Para generar pájaros (por ejemplo de fondo).
-  - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
+  - [Dynamic Rain](https://cgcool.gumroad.com/l/lxmii): Genera lluvia (sin charcos).
+  - [Dust Particles+](https://blendermarket.com/products/dust-particles): Añade partículas de forma sencilla.
 </details>
 
 <details>
@@ -136,9 +143,12 @@
 
  - [Smudge Mask Generator](https://blenderesse.gumroad.com/l/smudgemaskgenerator): Geometrynode para generar suciedad.
  - [Super Fast Render 3](https://pidgeontools.gumroad.com/l/SuperFastRender): Opciones para optimizar tiempo de renderizado.
+ - [Camera Cull Pro](https://blenderlabs.gumroad.com/l/cameracullprov2): Elimina los modelados fuera del marco de cámara de renderizado (optimiza tiempos).
  - [Procedural Crowds](https://cgcool.gumroad.com/l/tmnky): Manera sencilla y rápida de añadir multitudes.
  - [Parallax Occlusion Nodesetup](https://mrrolord.gumroad.com/l/BlenderPOM): Otra forma de generar geometria con displacement y normals.
  - [Real Damage](https://blendermarket.com/products/real-damage---realistic-internal-damage): Versión gratis para hacer pequeñas roturas en objetos.
+ - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
+ - [Pixel Art rendering](https://lucasroedel.gumroad.com/l/pixel_art): Para renderizar en estilo pixel art.
 </details>
 
 
