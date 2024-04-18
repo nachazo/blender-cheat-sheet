@@ -73,17 +73,22 @@
 
 ## Add-ons gratuitos
 
-* **Built-in** (simplemente activar desde Preferences → Add-ons):
-  * *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).
-  * *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.
-  * *Extra Objects*: Más objetos base como base de modelados.
-  * *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
-  * *Bool Tool*: Herramientas más rápidas para booleanas.
-  * *Images as Planes*: Método más sencillo para importar imagenes planas.
-  * *ANT Landscape*: Para hacer terrenos sencillos.
-  * *Real Snow*: Para añadir nieve de forma sencilla.
-  * *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
-  * *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
+<details>
+  <summary><b>Built-in</b> (simplemente activar desde Preferences → Add-ons)</summary>
+ 
+  - *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).    
+  - *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.    
+  - *Extra Objects*: Más objetos base como base de modelados.    
+  - *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
+  - *Bool Tool*: Herramientas más rápidas para booleanas.
+  - *Images as Planes*: Método más sencillo para importar imagenes planas.
+  - *ANT Landscape*: Para hacer terrenos sencillos.
+  - *Real Snow*: Para añadir nieve de forma sencilla.
+  - *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
+  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
+    
+</details>
+ 
 * [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Importa miles de materiales y assets.
 * [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
 * **Vegetación**
