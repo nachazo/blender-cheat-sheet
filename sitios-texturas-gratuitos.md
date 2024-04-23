@@ -5,9 +5,9 @@
 | *Sitio* | *Nota* | *Licencia* | *Nº texturas* | *Assets* | *HDRi* | *sbsar* | *Otros* | 
 | -       | :---:  | -          | -             | :---:    | :---:  | :---:   | -       |
 | [BlenderKit](https://www.blenderkit.com/) | `8` | Royalty free y CC0 | ~10.000 | **Sí** (top) | Sí | No | Requiere **Blender add-on** |
-| [AmbientCG](https://ambientcg.com/) | `8` | CC0 | ~2.300 | No | Sí | Sí | - |
+| [AmbientCG](https://ambientcg.com/) | `8` | CC0 | ~2.300 | No | Sí | Sí | [Add-on no oficial](https://github.com/strike-digital/asset_bridge) (*Asset Bridge*) |
 | [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial) | `8` | Gratis, sí uso comercial | ~1.200 free | No (pocos) | No | Todos | Necesita Substance 3D o usar [**add-on para Blender**](https://substance3d.adobe.com/plugins/substance-in-blender/)|
-| [Poly Haven](https://polyhaven.com/) | `7` | CC0 | ~420 | No | Sí (top) | No | **Blender add-on** |
+| [Poly Haven](https://polyhaven.com/) | `7` | CC0 | ~420 | No | Sí (top) | No | [Add-on no oficial](https://github.com/strike-digital/asset_bridge) (*Asset Bridge*) |
 | [MaterialX Library AMD](https://matlib.gpuopen.com) | `7` | MIT (Dominio público) | ~450 | No | No | No | - |
 | [3dassets.one](https://3dassets.one) | `7` | Meta buscador | ~ | **Sí** | Sí | Sí | Meta buscador |
 | [sharetextures](https://www.sharetextures.com/) | `7` | CC0 | ~1.475 | No (pocos) | No | No | - |
@@ -85,7 +85,14 @@
   - *ANT Landscape*: Para hacer terrenos sencillos.
   - *Real Snow*: Para añadir nieve de forma sencilla.
   - *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
-  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).    
+  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
+  - *Rigify*: Rigs rápidos y automáticos.
+  - *Cell Fracture*: Herramienta para fracturar/romper objetos.
+  - *Align Tools*: Alinea los objetos seleccionados respecto al objeto activo.
+  - *Node Arrange*: Para ordenar nodos de shading.
+  - *Turnaround Camera*: Genera animación de camara rotando un objeto fácilmente.
+  - *3D Navigation*: Herramientas de navegación comunes y emula los atajos del teclado numérico.
+  - *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
 </details>
 
 <details>
@@ -95,17 +102,20 @@
  - [Easy Lattice](https://blenderaddons.store/b/easy-lattice-modifier): Facilita la transformación del modelado por zonas.
  - [Dynamic Radial Arrays](https://ethansubblue.gumroad.com/l/DynamicRadialArray): Arrays circulares/radiales desde el punto de origen fáciles.
  - [Align and Distribute](https://amanbairwal.gumroad.com/l/AlignAndDistribute): De forma sencilla ordena, alinea y distribuye objetos.
+ - [Set Origin](https://emilsvfx.gumroad.com/l/cidqwp): Cambia el origen del objeto de forma más rápida.
 </details>
 
 <details>
   <summary><b>Materiales y assets</b></summary>
 
  - [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Colección de miles de materiales y assets.
+ - [Asset Bridge](https://github.com/strike-digital/asset_bridge): Add-on no oficial para AmbientCG y PolyHaven.
  - [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets.
  - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets.
  - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas de Substance 3D.
  - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
  - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
+ - [Buildify](https://paveloliva.gumroad.com/l/buildify): Generador de edificios de distintos tipos.
 </details>
 
 <details>
@@ -138,6 +148,7 @@
   - [Smoke Scatter](https://cgcool.gumroad.com/l/ybsfu): Genera humo de forma sencilla (¿sólo Eevee?).
   - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?)
   - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
+  - [Light Painter](https://github.com/semagnum/light-painter): Genera iluminación pintando por zonas.
 </details>
 
 <details>
@@ -159,6 +170,7 @@
  - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
  - [Pixel Art rendering](https://lucasroedel.gumroad.com/l/pixel_art): Para renderizar en estilo pixel art.
  - [Image 2 Mesh](https://www.youtube.com/watch?v=cXnETy9wHp4): Genera geometría desde imagenes.
+ - [RetopoFlow](https://github.com/CGCookie/retopoflow): Repotología (optimización de modelos) para Blender.
 </details>
 
 
