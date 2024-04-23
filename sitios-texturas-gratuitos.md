@@ -85,14 +85,16 @@
   - *ANT Landscape*: Para hacer terrenos sencillos.
   - *Real Snow*: Para añadir nieve de forma sencilla.
   - *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
-  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
-    
+  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).    
 </details>
 
 <details>
   <summary><b>QoL (calidad de vida)</b></summary>
 
  - [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
+ - [Easy Lattice](https://blenderaddons.store/b/easy-lattice-modifier): Facilita la transformación del modelado por zonas.
+ - [Dynamic Radial Arrays](https://ethansubblue.gumroad.com/l/DynamicRadialArray): Arrays circulares/radiales desde el punto de origen fáciles.
+ - [Align and Distribute](https://amanbairwal.gumroad.com/l/AlignAndDistribute): De forma sencilla ordena, alinea y distribuye objetos.
 </details>
 
 <details>
@@ -103,6 +105,7 @@
  - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets.
  - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas de Substance 3D.
  - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
+ - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
 </details>
 
 <details>
@@ -112,6 +115,7 @@
  - [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
  - [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
  - [Gaea](https://quadspinner.com/download): Software de 3os para generar entornos naturales ([otro](https://www.world-machine.com/)).
+ - [Real Terrain](https://maroc777772.gumroad.com/l/iznvi): Genera terreno, 35 tipos.
  - [Dynamic Stylized Water](https://dnslv.gumroad.com/l/dynwaterGN): Geonode para agua.
  - [Bird Generator Setup](https://blenderesse.gumroad.com/l/birdgenerator): Para generar pájaros (por ejemplo de fondo).
  - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
@@ -125,10 +129,15 @@
   - [Sky-Lab](https://blenderlabs.gumroad.com/l/sky-lab): Facilita añadir un cielo con horizonte/sol.
   - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
   - [Real Clouds](https://cgcool.gumroad.com/l/pxmfd): Para generar nubes.
+  - [KH-Cloud](https://www.youtube.com/watch?v=JWKrQoowQsY): Para generar nubes.
   - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
-  - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis.
+  - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis ([versión anterior](https://blendermarket.com/products/alt-tab-easy-fog)).
   - [Dynamic Rain](https://cgcool.gumroad.com/l/lxmii): Genera lluvia (sin charcos).
+  - [Rain Generator](https://jepe.gumroad.com/l/raingenerator): Genera lluvia.
   - [Dust Particles+](https://blendermarket.com/products/dust-particles): Añade partículas de forma sencilla.
+  - [Smoke Scatter](https://cgcool.gumroad.com/l/ybsfu): Genera humo de forma sencilla (¿sólo Eevee?).
+  - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?)
+  - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
 </details>
 
 <details>
@@ -149,6 +158,7 @@
  - [Real Damage](https://blendermarket.com/products/real-damage---realistic-internal-damage): Versión gratis para hacer pequeñas roturas en objetos.
  - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
  - [Pixel Art rendering](https://lucasroedel.gumroad.com/l/pixel_art): Para renderizar en estilo pixel art.
+ - [Image 2 Mesh](https://www.youtube.com/watch?v=cXnETy9wHp4): Genera geometría desde imagenes.
 </details>
 
 
