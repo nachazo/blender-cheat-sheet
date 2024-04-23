@@ -103,6 +103,7 @@
  - [Dynamic Radial Arrays](https://ethansubblue.gumroad.com/l/DynamicRadialArray): Arrays circulares/radiales desde el punto de origen fáciles.
  - [Align and Distribute](https://amanbairwal.gumroad.com/l/AlignAndDistribute): De forma sencilla ordena, alinea y distribuye objetos.
  - [Set Origin](https://emilsvfx.gumroad.com/l/cidqwp): Cambia el origen del objeto de forma más rápida.
+ - [Drop It](https://andreasaust.gumroad.com/l/drop_it): Tan sencillo como dejar "caer" objetos por colisión hacia "el suelo".
 </details>
 
 <details>
@@ -116,6 +117,9 @@
  - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
  - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
  - [Buildify](https://paveloliva.gumroad.com/l/buildify): Generador de edificios de distintos tipos.
+ - [MatLayer](https://github.com/LoganFairbairn/matlayer): Solución de edición y exportación de materiales basada en capas con muchas funciones.
+ - [UltimateSkin](https://kuhantilope.gumroad.com/l/ultimate-skin): Material procedural realista de piel.
+ - [Anti-Seam](https://thatimster.gumroad.com/l/juLNpq): Elimina bordes repetitivos en texturas.
 </details>
 
 <details>
@@ -131,11 +135,13 @@
  - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
  - [Snow + Procedural Ice Generator](https://blendermarket.com/products/free-snow/): Para generar nieve y hielo en superificies.
  - [Snowify](https://ninodefoq.gumroad.com/l/Snowify): Para generar nieve en superficies (comparar con el nativo).
+ - [Ivy Generator](https://abaga.gumroad.com/l/ivygen): Geometry node para generar hiedras, musgo, etc.
 </details>
 
 <details>
   <summary><b>Ambiente e iluminación</b></summary>
 
+  - [Real Sky](https://web.archive.org/web/20230506170800/https://3d-wolf.com/products/sky/): Genera cielo, sol y nubes.
   - [Sky-Lab](https://blenderlabs.gumroad.com/l/sky-lab): Facilita añadir un cielo con horizonte/sol.
   - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
   - [Real Clouds](https://cgcool.gumroad.com/l/pxmfd): Para generar nubes.
@@ -152,10 +158,11 @@
 </details>
 
 <details>
-  <summary><b>Animación</b></summary>
+  <summary><b>Animación y cámara</b></summary>
 
  - [BoneDynamics Free](https://morelewd.gumroad.com/l/LhbhP): Mejora movimientos en bones.
  - [VirtuCamera](https://virtucamera.com/): Genera animaciones con videos.
+ - [Real Camera](https://web.archive.org/web/20230506170743/https://3d-wolf.com/products/camera/): Añade opciones de control como si fuera una cámara real (exposición, etc).
 </details>
 
 <details>
@@ -168,9 +175,11 @@
  - [Parallax Occlusion Nodesetup](https://mrrolord.gumroad.com/l/BlenderPOM): Otra forma de generar geometria con displacement y normals.
  - [Real Damage](https://blendermarket.com/products/real-damage---realistic-internal-damage): Versión gratis para hacer pequeñas roturas en objetos.
  - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
+ - [Grungit](https://abdoubouam.gumroad.com/l/grungit): Añade suciedad y óxido en un click.
  - [Pixel Art rendering](https://lucasroedel.gumroad.com/l/pixel_art): Para renderizar en estilo pixel art.
  - [Image 2 Mesh](https://www.youtube.com/watch?v=cXnETy9wHp4): Genera geometría desde imagenes.
  - [RetopoFlow](https://github.com/CGCookie/retopoflow): Repotología (optimización de modelos) para Blender.
+ - [JRemesh Tools](https://github.com/jayanam/jremesh-tools): Wrapper para la aplicación de repotología Instant Meshes.
 </details>
 
 
