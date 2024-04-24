@@ -121,6 +121,7 @@
  - [MatLayer](https://github.com/LoganFairbairn/matlayer): Solución de edición y exportación de materiales basada en capas con muchas funciones.
  - [UltimateSkin](https://kuhantilope.gumroad.com/l/ultimate-skin): Material procedural realista de piel.
  - [Anti-Seam](https://thatimster.gumroad.com/l/juLNpq): Elimina bordes repetitivos en texturas.
+ - [Procedural Crowds](https://cgcool.gumroad.com/l/tmnky): Manera sencilla y rápida de añadir multitudes.
 </details>
 
 <details>
@@ -137,6 +138,7 @@
  - [Snow + Procedural Ice Generator](https://blendermarket.com/products/free-snow/): Para generar nieve y hielo en superificies.
  - [Snowify](https://ninodefoq.gumroad.com/l/Snowify): Para generar nieve en superficies (comparar con el nativo).
  - [Ivy Generator](https://abaga.gumroad.com/l/ivygen): Geometry node para generar hiedras, musgo, etc.
+ - [GBH Tool](https://gixo.gumroad.com/l/GBHTool): Herramientas avanzadas para pelo.
 </details>
 
 <details>
@@ -157,6 +159,7 @@
   - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
   - [Light Painter](https://github.com/semagnum/light-painter): Genera iluminación pintando por zonas.
   - [wolfstudio.io Generators](https://wolfstudio.io/assets/): Pack de generadores (fuego, partículas, enredaderas, rayos, etc).
+  - [Alt Tab Ocean & Water](https://blendermarket.com/products/alt-tab-water): Generar océanos y zonas de agua.
 </details>
 
 <details>
@@ -173,7 +176,6 @@
  - [Smudge Mask Generator](https://blenderesse.gumroad.com/l/smudgemaskgenerator): Geometrynode para generar suciedad.
  - [Super Fast Render 3](https://pidgeontools.gumroad.com/l/SuperFastRender): Opciones para optimizar tiempo de renderizado.
  - [Camera Cull Pro](https://blenderlabs.gumroad.com/l/cameracullprov2): Elimina los modelados fuera del marco de cámara de renderizado (optimiza tiempos).
- - [Procedural Crowds](https://cgcool.gumroad.com/l/tmnky): Manera sencilla y rápida de añadir multitudes.
  - [Parallax Occlusion Nodesetup](https://mrrolord.gumroad.com/l/BlenderPOM): Otra forma de generar geometria con displacement y normals.
  - [Real Damage](https://blendermarket.com/products/real-damage---realistic-internal-damage): Versión gratis para hacer pequeñas roturas en objetos.
  - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
