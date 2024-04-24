@@ -105,6 +105,7 @@
  - [Align and Distribute](https://amanbairwal.gumroad.com/l/AlignAndDistribute): De forma sencilla ordena, alinea y distribuye objetos.
  - [Set Origin](https://emilsvfx.gumroad.com/l/cidqwp): Cambia el origen del objeto de forma más rápida.
  - [Drop It](https://andreasaust.gumroad.com/l/drop_it): Tan sencillo como dejar "caer" objetos por colisión hacia "el suelo".
+ - [Unwrap Me](https://github.com/3e33/UnwrapMe): Para generar mapeados UV con mejores marcas.
 </details>
 
 <details>
@@ -122,6 +123,8 @@
  - [UltimateSkin](https://kuhantilope.gumroad.com/l/ultimate-skin): Material procedural realista de piel.
  - [Anti-Seam](https://thatimster.gumroad.com/l/juLNpq): Elimina bordes repetitivos en texturas.
  - [Procedural Crowds](https://cgcool.gumroad.com/l/tmnky): Manera sencilla y rápida de añadir multitudes.
+ - [Dream Textures](https://github.com/carson-katri/dream-textures): Integra la IA Stable Diffusion para crear texturas, upscale, etc (se ejecuta en local).
+ - [Easy PBR](https://codeofart.gumroad.com/l/EasyPBR): Algunas facilidades para manejar texturas PBR (y bakear).
 </details>
 
 <details>
@@ -139,6 +142,7 @@
  - [Snowify](https://ninodefoq.gumroad.com/l/Snowify): Para generar nieve en superficies (comparar con el nativo).
  - [Ivy Generator](https://abaga.gumroad.com/l/ivygen): Geometry node para generar hiedras, musgo, etc.
  - [GBH Tool](https://gixo.gumroad.com/l/GBHTool): Herramientas avanzadas para pelo.
+ - [Geometry Nodes Hair Generator](https://xeofrios.gumroad.com/l/gnhair): Geometry Node para pelo pintando.
 </details>
 
 <details>
@@ -168,6 +172,8 @@
  - [BoneDynamics Free](https://morelewd.gumroad.com/l/LhbhP): Mejora movimientos en bones.
  - [VirtuCamera](https://virtucamera.com/): Genera animaciones con videos.
  - [Real Camera](https://web.archive.org/web/20230506170743/https://3d-wolf.com/products/camera/): Añade opciones de control como si fuera una cámara real (exposición, etc).
+ - [BlenRig](https://blendermarket.com/products/blenrig): Mejoras en rigging.
+ - [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2): Movimiento de wiggles más realista.
 </details>
 
 <details>
