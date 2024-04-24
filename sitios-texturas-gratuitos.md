@@ -62,6 +62,7 @@
 | [Clara.io](https://clara.io/library) | `7` | Dominio público o CC | ~100.000 | - |
 | [MyMiniFactory](https://www.myminifactory.com) | `7` | Varias, CC-BY, no comercial, de pago, etc | ~? | Sobretodo impresión 3D de juegos de mesa |
 | [3DExport](https://es.3dexport.com/free-3d-models) | `7` | Gratis, royalty free | ~13.000 | De todo un poco |
+| [wolfstudio.io Furniture](https://wolfstudio.io/assets/) | `6` | CC0 | ~60 | Muebles de hogar buenos |
 | [poly.piza](https://poly.pizza/) | `6` | Varias, hay CC-BY, CC0, etc | ~9.400 | Modelos low poly |
 | [Archive3D](https://archive3d.net/) | `6` | Gratis | ~7.200 | Sobretodo arquitectura |
 | [All3dfree.net](https://www.all3dfree.net) | `6` | Gratis, sí uso comercial | ~? | Sobretodo arquitectura |
@@ -155,6 +156,7 @@
   - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?)
   - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
   - [Light Painter](https://github.com/semagnum/light-painter): Genera iluminación pintando por zonas.
+  - [wolfstudio.io Generators](https://wolfstudio.io/assets/): Pack de generadores (fuego, partículas, enredaderas, rayos, etc).
 </details>
 
 <details>
