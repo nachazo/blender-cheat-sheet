@@ -122,7 +122,7 @@
 </details>
 
 <details>
-  <summary><b>Vegetación y detalles</b></summary>
+  <summary><b>Escenario y vegetación</b></summary>
  
  - *ANT Landscape*: Para hacer terrenos sencillos.
  - *Real Snow*: Para añadir nieve de forma sencilla.
@@ -134,9 +134,9 @@
  - [Auto-Terrainer](https://unicornhunter.gumroad.com/l/AutoTerrainer): Generación simple y sencilla de terreno.
  - [Blender OSM](https://prochitecture.gumroad.com/l/blender-osm): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
  - [Blender GIS](https://github.com/domlysz/BlenderGIS): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
+ - [Alt Tab Ocean & Water](https://blendermarket.com/products/alt-tab-water): Generar océanos y zonas de agua.
+ - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
  - [Dynamic Stylized Water](https://dnslv.gumroad.com/l/dynwaterGN): Geonode para agua.
- - [Bird Generator Setup](https://blenderesse.gumroad.com/l/birdgenerator): Para generar pájaros (por ejemplo de fondo).
- - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
  - [Snow + Procedural Ice Generator](https://blendermarket.com/products/free-snow/): Para generar nieve y hielo en superificies.
  - [Snowify](https://ninodefoq.gumroad.com/l/Snowify): Para generar nieve en superficies (comparar con el nativo).
  - [Ivy Generator](https://abaga.gumroad.com/l/ivygen): Geometry node para generar hiedras, musgo, etc.
@@ -145,7 +145,7 @@
 </details>
 
 <details>
-  <summary><b>Escenario e iluminación</b></summary>
+  <summary><b>Iluminación, nubes, ambientación y detalles</b></summary>
 
   - *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
   - [Real Sky](https://web.archive.org/web/20230506170800/https://3d-wolf.com/products/sky/): Genera cielo, sol y nubes.
@@ -160,11 +160,11 @@
   - [Rain Generator](https://jepe.gumroad.com/l/raingenerator): Genera lluvia.
   - [Dust Particles+](https://blendermarket.com/products/dust-particles): Añade partículas de forma sencilla.
   - [Smoke Scatter](https://cgcool.gumroad.com/l/ybsfu): Genera humo de forma sencilla (¿sólo Eevee?).
-  - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?)
-  - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
+  - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?).
+  - [Bird Generator Setup](https://blenderesse.gumroad.com/l/birdgenerator): Para generar pájaros (por ejemplo de fondo).
+  - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
   - [Light Painter](https://github.com/semagnum/light-painter): Genera iluminación pintando por zonas.
   - [wolfstudio.io Generators](https://wolfstudio.io/assets/): Pack de generadores (fuego, partículas, enredaderas, rayos, etc).
-  - [Alt Tab Ocean & Water](https://blendermarket.com/products/alt-tab-water): Generar océanos y zonas de agua.
   - [Screen Space Global Illumination for Eevee](https://n0451.gumroad.com/l/PgyXc): Mejora la iluminación en el renderizador Eevee.
 </details>
 
