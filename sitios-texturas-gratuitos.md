@@ -17,6 +17,7 @@
 | [LotPixel](https://www.lotpixel.com) | `6` | Parte gratis, sí uso comercial | ~1.300 free | No (ninguno gratis) | No | No | - |
 | [HDRMaps](https://hdrmaps.com/freebies/) | `6` | CC-CBY | ~200 | No | Sí | No | Interesantes HDRi maps. Tiene add-on |
 | [PBR Materials](https://pbrmaterials.com/) | `6` | CC0 | ~200 free | No | No | No | - |
+| [CGAxis](https://cgaxis.com/all-access/?ep-tax-assets=7273) | `6` | Royalty free license | ~100 free | No | No | Sí | Parte gratis pequeña |
 | [CGMood](https://cgmood.com) | `6` | Gratis, no especifica uso comerical | ~320 free | Sí | No | No | Principalmente arquitectura |
 | [Polycam Texture Generator](https://poly.cam/tools/ai-texture-generator) | `6` | Gratis, sí uso comercial | ∞ | No | No | No | **Generador por IA**, 768x768 gratis |
 | [Poliigon](https://www.poliigon.com/search/free) | `5` | Parte gratis, sí uso comercial | ~100 free | Sí | Sí | No | Blender add-on |
@@ -106,6 +107,7 @@
  - [Set Origin](https://emilsvfx.gumroad.com/l/cidqwp): Cambia el origen del objeto de forma más rápida.
  - [Drop It](https://andreasaust.gumroad.com/l/drop_it): Tan sencillo como dejar "caer" objetos por colisión hacia "el suelo".
  - [Unwrap Me](https://github.com/3e33/UnwrapMe): Para generar mapeados UV con mejores marcas.
+ - [Select Sim](https://kushiro.gumroad.com/l/smjsbe): Selecciona caras o vertices "similares" (selecciona más rápido).
 </details>
 
 <details>
@@ -123,8 +125,11 @@
  - [UltimateSkin](https://kuhantilope.gumroad.com/l/ultimate-skin): Material procedural realista de piel.
  - [Anti-Seam](https://thatimster.gumroad.com/l/juLNpq): Elimina bordes repetitivos en texturas.
  - [Procedural Crowds](https://cgcool.gumroad.com/l/tmnky): Manera sencilla y rápida de añadir multitudes.
+ - [DeepBump](https://github.com/HugoTini/DeepBump): Genera mapa de normales, displacement, etc desde la textura de color.
  - [Dream Textures](https://github.com/carson-katri/dream-textures): Integra la IA Stable Diffusion para crear texturas, upscale, etc (se ejecuta en local).
+ - [DT2DB](https://amanbairwal.gumroad.com/l/dt2db): Combinado con Dream Textures para que no solo sea textura de imagen, si no PBR.
  - [Easy PBR](https://codeofart.gumroad.com/l/EasyPBR): Algunas facilidades para manejar texturas PBR (y bakear).
+ - [Auto-bake Tools](https://github.com/GarikDog/autobake_tools): Bakeo fácil de texturas.
 </details>
 
 <details>
@@ -135,6 +140,9 @@
  - [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
  - [Gaea](https://quadspinner.com/download): Software de 3os para generar entornos naturales ([otro](https://www.world-machine.com/)).
  - [Real Terrain](https://maroc777772.gumroad.com/l/iznvi): Genera terreno, 35 tipos.
+ - [Auto-Terrainer](https://unicornhunter.gumroad.com/l/AutoTerrainer): Generación simple y sencilla de terreno.
+ - [Blender OSM](https://prochitecture.gumroad.com/l/blender-osm): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
+ - [Blender GIS](https://github.com/domlysz/BlenderGIS): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
  - [Dynamic Stylized Water](https://dnslv.gumroad.com/l/dynwaterGN): Geonode para agua.
  - [Bird Generator Setup](https://blenderesse.gumroad.com/l/birdgenerator): Para generar pájaros (por ejemplo de fondo).
  - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
@@ -153,6 +161,7 @@
   - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
   - [Real Clouds](https://cgcool.gumroad.com/l/pxmfd): Para generar nubes.
   - [KH-Cloud](https://www.youtube.com/watch?v=JWKrQoowQsY): Para generar nubes.
+  - [Cloud Shader](https://advladart.gumroad.com/l/dmnvv): Para generar nubes.
   - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
   - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis ([versión anterior](https://blendermarket.com/products/alt-tab-easy-fog)).
   - [Dynamic Rain](https://cgcool.gumroad.com/l/lxmii): Genera lluvia (sin charcos).
@@ -164,6 +173,7 @@
   - [Light Painter](https://github.com/semagnum/light-painter): Genera iluminación pintando por zonas.
   - [wolfstudio.io Generators](https://wolfstudio.io/assets/): Pack de generadores (fuego, partículas, enredaderas, rayos, etc).
   - [Alt Tab Ocean & Water](https://blendermarket.com/products/alt-tab-water): Generar océanos y zonas de agua.
+  - [Screen Space Global Illumination for Eevee](https://n0451.gumroad.com/l/PgyXc): Mejora la iluminación en el renderizador Eevee.
 </details>
 
 <details>
@@ -174,6 +184,8 @@
  - [Real Camera](https://web.archive.org/web/20230506170743/https://3d-wolf.com/products/camera/): Añade opciones de control como si fuera una cámara real (exposición, etc).
  - [BlenRig](https://blendermarket.com/products/blenrig): Mejoras en rigging.
  - [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2): Movimiento de wiggles más realista.
+ - [Camera Shakify](https://github.com/EatTheFuture/camera_shakify): Añade un pequeño movimiento que dota de realismo a la cámara en una animación.
+ - [Physics Dropper](https://blendermarket.com/products/physics-dropper): Replica físicas para colocar objetos (link gratis a github dentro).
 </details>
 
 <details>
@@ -190,6 +202,7 @@
  - [Image 2 Mesh](https://www.youtube.com/watch?v=cXnETy9wHp4): Genera geometría desde imagenes.
  - [RetopoFlow](https://github.com/CGCookie/retopoflow): Repotología (optimización de modelos) para Blender.
  - [JRemesh Tools](https://github.com/jayanam/jremesh-tools): Wrapper para la aplicación de repotología Instant Meshes.
+ - [Mesh Tension](https://github.com/chiragraman/mesh-tension): Modificador para replicar "tensión" y arrugas en zonas comprimidas de un objeto.
 </details>
 
 
