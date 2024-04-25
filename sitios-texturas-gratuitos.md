@@ -75,31 +75,17 @@
 
 ## Add-ons gratuitos
 
-<details>
-  <summary><b>Built-in</b> (simplemente activar desde Preferences → Add-ons)</summary>
- 
-  - *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).    
-  - *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.    
-  - *Extra Objects*: Más objetos base como base de modelados.    
-  - *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
-  - *Bool Tool*: Herramientas más rápidas para booleanas.
-  - *Images as Planes*: Método más sencillo para importar imagenes planas.
-  - *ANT Landscape*: Para hacer terrenos sencillos.
-  - *Real Snow*: Para añadir nieve de forma sencilla.
-  - *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
-  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
-  - *Rigify*: Rigs rápidos y automáticos.
-  - *Cell Fracture*: Herramienta para fracturar/romper objetos.
-  - *Align Tools*: Alinea los objetos seleccionados respecto al objeto activo.
-  - *Node Arrange*: Para ordenar nodos de shading.
-  - *Turnaround Camera*: Genera animación de camara rotando un objeto fácilmente.
-  - *3D Navigation*: Herramientas de navegación comunes y emula los atajos del teclado numérico.
-  - *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
-</details>
+(En *cursiva*, add-ons <b>nativos</b> (built-in): simplemente activar desde Preferences → Add-ons).
 
 <details>
   <summary><b>QoL (calidad de vida)</b></summary>
 
+ - *Extra Objects*: Más objetos base como base de modelados.
+ - *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
+ - *Bool Tool*: Herramientas más rápidas para booleanas.
+ - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
+ - *Align Tools*: Alinea los objetos seleccionados respecto al objeto activo.
+ - *3D Navigation*: Herramientas de navegación comunes y emula los atajos del teclado numérico.
  - [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
  - [Easy Lattice](https://blenderaddons.store/b/easy-lattice-modifier): Facilita la transformación del modelado por zonas.
  - [Dynamic Radial Arrays](https://ethansubblue.gumroad.com/l/DynamicRadialArray): Arrays circulares/radiales desde el punto de origen fáciles.
@@ -113,6 +99,9 @@
 <details>
   <summary><b>Materiales y assets</b></summary>
 
+ - *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).
+ - *Node Arrange*: Para ordenar nodos de shading.
+ - *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.
  - [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Colección de miles de materiales y assets.
  - [Asset Bridge](https://github.com/strike-digital/asset_bridge): Add-on no oficial para AmbientCG y PolyHaven.
  - [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets.
@@ -135,6 +124,8 @@
 <details>
   <summary><b>Vegetación y detalles</b></summary>
  
+ - *ANT Landscape*: Para hacer terrenos sencillos.
+ - *Real Snow*: Para añadir nieve de forma sencilla.
  - [Gscatter](https://store.gscatter.com/account/gscatter): Add-on para vegetación y entorno.
  - [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
  - [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
@@ -154,8 +145,9 @@
 </details>
 
 <details>
-  <summary><b>Ambiente e iluminación</b></summary>
+  <summary><b>Escenario e iluminación</b></summary>
 
+  - *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
   - [Real Sky](https://web.archive.org/web/20230506170800/https://3d-wolf.com/products/sky/): Genera cielo, sol y nubes.
   - [Sky-Lab](https://blenderlabs.gumroad.com/l/sky-lab): Facilita añadir un cielo con horizonte/sol.
   - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
@@ -179,6 +171,8 @@
 <details>
   <summary><b>Animación y cámara</b></summary>
 
+ - *Turnaround Camera*: Genera animación de camara rotando un objeto fácilmente.
+ - *Rigify*: Rigs rápidos y automáticos.
  - [BoneDynamics Free](https://morelewd.gumroad.com/l/LhbhP): Mejora movimientos en bones.
  - [VirtuCamera](https://virtucamera.com/): Genera animaciones con videos.
  - [Real Camera](https://web.archive.org/web/20230506170743/https://3d-wolf.com/products/camera/): Añade opciones de control como si fuera una cámara real (exposición, etc).
@@ -191,6 +185,9 @@
 <details>
   <summary><b>Otros</b></summary>
 
+ - *Images as Planes*: Método más sencillo para importar imagenes planas.
+ - *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
+ - *Cell Fracture*: Herramienta para fracturar/romper objetos.
  - [Smudge Mask Generator](https://blenderesse.gumroad.com/l/smudgemaskgenerator): Geometrynode para generar suciedad.
  - [Super Fast Render 3](https://pidgeontools.gumroad.com/l/SuperFastRender): Opciones para optimizar tiempo de renderizado.
  - [Camera Cull Pro](https://blenderlabs.gumroad.com/l/cameracullprov2): Elimina los modelados fuera del marco de cámara de renderizado (optimiza tiempos).
