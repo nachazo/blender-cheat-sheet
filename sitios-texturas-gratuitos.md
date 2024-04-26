@@ -119,6 +119,7 @@
  - [DT2DB](https://amanbairwal.gumroad.com/l/dt2db): Combinado con Dream Textures para que no solo sea textura de imagen, si no PBR.
  - [Easy PBR](https://codeofart.gumroad.com/l/EasyPBR): Algunas facilidades para manejar texturas PBR (y bakear).
  - [Auto-bake Tools](https://github.com/GarikDog/autobake_tools): Bakeo fácil de texturas.
+ - [KH Materials](https://www.youtube.com/watch?v=4xmzEXkKYww): Algunas herramientas rápidas para nodos de shaders (mezcla de color, bump, etc).
 </details>
 
 <details>
@@ -180,6 +181,8 @@
  - [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2): Movimiento de wiggles más realista.
  - [Camera Shakify](https://github.com/EatTheFuture/camera_shakify): Añade un pequeño movimiento que dota de realismo a la cámara en una animación.
  - [Physics Dropper](https://blendermarket.com/products/physics-dropper): Replica físicas para colocar objetos (link gratis a github dentro).
+ - [Right Mouse Navigation](https://github.com/SpectralVectors/RightMouseNavigation): Usa el walk/fly navigation con el botón derecho del ratón.
+ - [Camera Plane](https://extensions.blender.org/add-ons/lfs-camera-plane/): Para poner fondos de imagen detrás y orientado con la vista de cámara.
 </details>
 
 <details>
@@ -200,6 +203,7 @@
  - [RetopoFlow](https://github.com/CGCookie/retopoflow): Repotología (optimización de modelos) para Blender.
  - [JRemesh Tools](https://github.com/jayanam/jremesh-tools): Wrapper para la aplicación de repotología Instant Meshes.
  - [Mesh Tension](https://github.com/chiragraman/mesh-tension): Modificador para replicar "tensión" y arrugas en zonas comprimidas de un objeto.
+ - [KH Memory](https://www.youtube.com/watch?v=6kLQPC2B_qc): Algunas herramientas para limpiar memoria y alternar entre high poly y low poly.
 </details>
 
 
