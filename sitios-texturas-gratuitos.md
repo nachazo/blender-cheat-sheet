@@ -156,6 +156,7 @@
   - [KH-Cloud](https://www.youtube.com/watch?v=JWKrQoowQsY): Para generar nubes.
   - [Cloud Shader](https://advladart.gumroad.com/l/dmnvv): Para generar nubes.
   - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
+  - [Gaffer](https://github.com/gregzaal/Gaffer): Gestión rápida de iluminación y HDRi.
   - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis ([versión anterior](https://blendermarket.com/products/alt-tab-easy-fog)).
   - [Dynamic Rain](https://cgcool.gumroad.com/l/lxmii): Genera lluvia (sin charcos).
   - [Rain Generator](https://jepe.gumroad.com/l/raingenerator): Genera lluvia.
