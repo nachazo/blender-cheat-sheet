@@ -44,9 +44,6 @@
 
 * **ArmorLab & ArmorPaint**: https://armorlab.org & https://armorpaint.org
   * *Herramientas de creación y pintura de texturas PBR (Physically Based Rendering) desarrolladas por Armory, que permiten a los usuarios diseñar y texturizar modelos 3D con gran detalle y realismo. **Gratis compilando** desde código fuente: [uno](https://github.com/armory3d/armortools/tree/main/armorlab) y [dos](https://github.com/armory3d/armortools/tree/main/armorpaint)*
- 
-* **Stable Projectorz**: https://stableprojectorz.com
-  * *Genera texturas mediante IA en local, con Stable Diffusion.*
 
 &nbsp;
 
@@ -125,6 +122,7 @@
  - [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT): Otra para gestionar el bakeo de texturas.
  - [KH Materials](https://www.youtube.com/watch?v=4xmzEXkKYww): Algunas herramientas rápidas para nodos de shaders (mezcla de color, bump, etc).
  - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
+ - [PSD-Layers](https://splitcg.gumroad.com/l/psd-layers) ([web](https://psd-layers.com/)): Permite pintar texturas por capas, como si fuera un editor de imagenes.
 </details>
 
 <details>
@@ -223,6 +221,25 @@
 
 
 ## Otros
+
+### IA, captura 3D y fotogrametria
+
+* **Stable Projectorz**: https://stableprojectorz.com
+  * *Genera texturas mediante IA en local, con Stable Diffusion.*
+ 
+* **Polycam**: https://poly.cam
+  * *Herramientas IA online para generar modelos 3D simples, capturas 3D y trabajo con texturas.*
+ 
+* **lumalabs**: https://lumalabs.ai
+  * *Herramientas IA online para generar modelos 3D simples o capturas escenas con Gaussian Splating.*
+ 
+* **Meshy**: https://www.meshy.ai
+  * *Herramienta IA online para generar modelos 3D simples o capturados en 3D y trabajo con texturas.*
+ 
+* **Texture Lab**: https://www.texturelab.xyz
+  * *Herramienta IA online para generar texturas simples.* 
+ 
+&nbsp;
 
 ### Librerías de imagenes gratuitas
 
