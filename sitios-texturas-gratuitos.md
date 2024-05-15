@@ -110,7 +110,6 @@
  - [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets.
  - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets.
  - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas de Substance 3D.
- - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
  - [Sanctus Library](https://blendermarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender): Pack que, en la versión gratis, tiene texturas procedurales y generadores interesantes.
  - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
  - [Buildify](https://paveloliva.gumroad.com/l/buildify): Generador de edificios de distintos tipos.
@@ -125,6 +124,7 @@
  - [Auto-bake Tools](https://github.com/GarikDog/autobake_tools): Bakeo fácil de texturas.
  - [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT): Otra para gestionar el bakeo de texturas.
  - [KH Materials](https://www.youtube.com/watch?v=4xmzEXkKYww): Algunas herramientas rápidas para nodos de shaders (mezcla de color, bump, etc).
+ - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
 </details>
 
 <details>
