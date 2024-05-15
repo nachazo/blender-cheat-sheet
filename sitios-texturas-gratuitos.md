@@ -119,6 +119,7 @@
  - [DT2DB](https://amanbairwal.gumroad.com/l/dt2db): Combinado con Dream Textures para que no solo sea textura de imagen, si no PBR.
  - [Easy PBR](https://codeofart.gumroad.com/l/EasyPBR): Algunas facilidades para manejar texturas PBR (y bakear).
  - [Auto-bake Tools](https://github.com/GarikDog/autobake_tools): Bakeo fácil de texturas.
+ - [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT): Otra para gestionar el bakeo de texturas.
  - [KH Materials](https://www.youtube.com/watch?v=4xmzEXkKYww): Algunas herramientas rápidas para nodos de shaders (mezcla de color, bump, etc).
 </details>
 
@@ -160,14 +161,18 @@
   - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis ([versión anterior](https://blendermarket.com/products/alt-tab-easy-fog)).
   - [Dynamic Rain](https://cgcool.gumroad.com/l/lxmii): Genera lluvia (sin charcos).
   - [Rain Generator](https://jepe.gumroad.com/l/raingenerator): Genera lluvia.
+  - [Rainy Window Shader](https://blueinversion.gumroad.com/l/ZXBOB): Genera efecto de gotas de agua.
   - [Dust Particles+](https://blendermarket.com/products/dust-particles): Añade partículas de forma sencilla.
   - [Smoke Scatter](https://cgcool.gumroad.com/l/ybsfu): Genera humo de forma sencilla (¿sólo Eevee?).
   - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?).
+  - [Smoke & Fire FX](https://studio.blender.org/films/charge/gallery/?asset=6132): Efecto de fuego y humo con geometry nodes.
   - [Bird Generator Setup](https://blenderesse.gumroad.com/l/birdgenerator): Para generar pájaros (por ejemplo de fondo).
   - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
   - [Light Painter](https://github.com/semagnum/light-painter): Genera iluminación pintando por zonas.
+  - [Blender QLE](https://github.com/don1138/blender-qle): Genera un ambiente de iluminación rápido, en un click.
   - [wolfstudio.io Generators](https://wolfstudio.io/assets/): Pack de generadores (fuego, partículas, enredaderas, rayos, etc).
   - [Screen Space Global Illumination for Eevee](https://n0451.gumroad.com/l/PgyXc): Mejora la iluminación en el renderizador Eevee.
+  - [Ultimate Lightning Pack](https://hellfx.gumroad.com/l/lightningpack): Genera rayos fácilmente.
 </details>
 
 <details>
@@ -178,12 +183,14 @@
  - [BoneDynamics Free](https://morelewd.gumroad.com/l/LhbhP): Mejora movimientos en bones.
  - [VirtuCamera](https://virtucamera.com/): Genera animaciones con videos.
  - [Real Camera](https://web.archive.org/web/20230506170743/https://3d-wolf.com/products/camera/): Añade opciones de control como si fuera una cámara real (exposición, etc).
+ - [mixamo](https://www.adobe.com/products/substance3d/plugins/mixamo-in-blender.html): En un click, genera IK control rig y permite importar animaciones (de Adobe).
  - [BlenRig](https://blendermarket.com/products/blenrig): Mejoras en rigging.
  - [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2): Movimiento de wiggles más realista.
  - [Camera Shakify](https://github.com/EatTheFuture/camera_shakify): Añade un pequeño movimiento que dota de realismo a la cámara en una animación.
  - [Physics Dropper](https://blendermarket.com/products/physics-dropper): Replica físicas para colocar objetos (link gratis a github dentro).
  - [Right Mouse Navigation](https://github.com/SpectralVectors/RightMouseNavigation): Usa el walk/fly navigation con el botón derecho del ratón.
  - [Camera Plane](https://extensions.blender.org/add-ons/lfs-camera-plane/): Para poner fondos de imagen detrás y orientado con la vista de cámara.
+ - [Ragdoll](https://learn.ragdolldynamics.com/download/): Aplica físicas en tiempo real para tus animaciones (gratis no comercial).
 </details>
 
 <details>
@@ -195,6 +202,7 @@
  - [Smudge Mask Generator](https://blenderesse.gumroad.com/l/smudgemaskgenerator): Geometrynode para generar suciedad.
  - [Super Fast Render 3](https://pidgeontools.gumroad.com/l/SuperFastRender): Opciones para optimizar tiempo de renderizado.
  - [Camera Cull Pro](https://blenderlabs.gumroad.com/l/cameracullprov2): Elimina los modelados fuera del marco de cámara de renderizado (optimiza tiempos).
+ - [nView Live](https://github.com/semagnum/nview-live): Otra como la anterior, por si no funcionara alguna de las dos.
  - [Parallax Occlusion Nodesetup](https://mrrolord.gumroad.com/l/BlenderPOM): Otra forma de generar geometria con displacement y normals.
  - [Real Damage](https://blendermarket.com/products/real-damage---realistic-internal-damage): Versión gratis para hacer pequeñas roturas en objetos.
  - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
@@ -205,6 +213,7 @@
  - [JRemesh Tools](https://github.com/jayanam/jremesh-tools): Wrapper para la aplicación de repotología Instant Meshes.
  - [Mesh Tension](https://github.com/chiragraman/mesh-tension): Modificador para replicar "tensión" y arrugas en zonas comprimidas de un objeto.
  - [KH Memory](https://www.youtube.com/watch?v=6kLQPC2B_qc): Algunas herramientas para limpiar memoria y alternar entre high poly y low poly.
+ - [Bystedts cloth builder](https://3dbystedt.gumroad.com/l/bystedtsClothBuilder): Ayuda a generar el efecto de la ropa.
 </details>
 
 
