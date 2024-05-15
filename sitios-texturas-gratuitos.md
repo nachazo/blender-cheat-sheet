@@ -44,6 +44,9 @@
 
 * **ArmorLab & ArmorPaint**: https://armorlab.org & https://armorpaint.org
   * *Herramientas de creación y pintura de texturas PBR (Physically Based Rendering) desarrolladas por Armory, que permiten a los usuarios diseñar y texturizar modelos 3D con gran detalle y realismo. **Gratis compilando** desde código fuente: [uno](https://github.com/armory3d/armortools/tree/main/armorlab) y [dos](https://github.com/armory3d/armortools/tree/main/armorpaint)*
+ 
+* **Stable Projectorz**: https://stableprojectorz.com
+  * *Genera texturas mediante IA en local, con Stable Diffusion.*
 
 &nbsp;
 
@@ -108,6 +111,7 @@
  - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets.
  - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas de Substance 3D.
  - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
+ - [Sanctus Library](https://blendermarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender): Pack que, en la versión gratis, tiene texturas procedurales y generadores interesantes.
  - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
  - [Buildify](https://paveloliva.gumroad.com/l/buildify): Generador de edificios de distintos tipos.
  - [MatLayer](https://github.com/LoganFairbairn/matlayer): Solución de edición y exportación de materiales basada en capas con muchas funciones.
@@ -191,6 +195,7 @@
  - [Right Mouse Navigation](https://github.com/SpectralVectors/RightMouseNavigation): Usa el walk/fly navigation con el botón derecho del ratón.
  - [Camera Plane](https://extensions.blender.org/add-ons/lfs-camera-plane/): Para poner fondos de imagen detrás y orientado con la vista de cámara.
  - [Ragdoll](https://learn.ragdolldynamics.com/download/): Aplica físicas en tiempo real para tus animaciones (gratis no comercial).
+ - [meshcapade](https://meshcapade.com/): Aplicación web para exportar animaciones sobre modelos (librería y generación).
 </details>
 
 <details>
