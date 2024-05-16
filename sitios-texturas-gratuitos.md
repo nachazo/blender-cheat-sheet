@@ -130,7 +130,7 @@
 </details>
 
 <details>
-  <summary><b>Escenario y vegetación</b></summary>
+  <summary><b>Terreno y vegetación</b></summary>
  
  - *ANT Landscape*: Para hacer terrenos sencillos.
  - [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
