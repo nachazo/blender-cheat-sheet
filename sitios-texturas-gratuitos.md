@@ -44,6 +44,8 @@
 
 * **ArmorLab & ArmorPaint**: https://armorlab.org & https://armorpaint.org
   * *Herramientas de creación y pintura de texturas PBR (Physically Based Rendering) desarrolladas por Armory, que permiten a los usuarios diseñar y texturizar modelos 3D con gran detalle y realismo. **Gratis compilando** desde código fuente: [uno](https://github.com/armory3d/armortools/tree/main/armorlab) y [dos](https://github.com/armory3d/armortools/tree/main/armorpaint)*
+ 
+* Alternativas gratuitas open soruce a Photoshop para edición de imagen (también texturas): [krita](https://krita.org/es), [GIMP](https://www.gimp.org), [paint.net](https://www.getpaint.net), [Inkscape](https://inkscape.org/es/)
 
 &nbsp;
 
@@ -124,6 +126,7 @@
  - [KH Materials](https://www.youtube.com/watch?v=4xmzEXkKYww): Algunas herramientas rápidas para nodos de shaders (mezcla de color, bump, etc).
  - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
  - [PSD-Layers](https://splitcg.gumroad.com/l/psd-layers) ([web](https://psd-layers.com/)): Permite pintar texturas por capas, como si fuera un editor de imagenes.
+ - [MakeHuman MPFB](http://www.makehumancommunity.org/): Aplicación gratuita con integración en Blender para hacer modelados humanos de calidad mediana.
 </details>
 
 <details>
