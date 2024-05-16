@@ -83,20 +83,20 @@
 <details>
   <summary><b>QoL (calidad de vida)</b></summary>
 
- - *Extra Objects*: Más objetos base como base de modelados.
+ - *Extra Objects*: Más formas y tipos de objeto como base de modelados.
  - *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
- - *Bool Tool*: Herramientas más rápidas para booleanas.
+ - *Bool Tool*: Herramientas más rápidas para aplicar y usar booleanas.
  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
  - *Align Tools*: Alinea los objetos seleccionados respecto al objeto activo.
  - *3D Navigation*: Herramientas de navegación comunes y emula los atajos del teclado numérico.
  - [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
- - [Easy Lattice](https://blenderaddons.store/b/easy-lattice-modifier): Facilita la transformación del modelado por zonas.
- - [Dynamic Radial Arrays](https://ethansubblue.gumroad.com/l/DynamicRadialArray): Arrays circulares/radiales desde el punto de origen fáciles.
- - [Align and Distribute](https://amanbairwal.gumroad.com/l/AlignAndDistribute): De forma sencilla ordena, alinea y distribuye objetos.
+ - [Unwrap Me](https://github.com/3e33/UnwrapMe): Para generar mapeados UV con mejores marcas ([descripción](https://blendermarket.com/products/unwrap-me)).
  - [Set Origin](https://emilsvfx.gumroad.com/l/cidqwp): Cambia el origen del objeto de forma más rápida.
  - [Drop It](https://andreasaust.gumroad.com/l/drop_it): Tan sencillo como dejar "caer" objetos por colisión hacia "el suelo".
- - [Unwrap Me](https://github.com/3e33/UnwrapMe): Para generar mapeados UV con mejores marcas.
+ - [Dynamic Radial Arrays](https://ethansubblue.gumroad.com/l/DynamicRadialArray): Arrays circulares/radiales desde el punto de origen fáciles.
+ - [Align and Distribute](https://amanbairwal.gumroad.com/l/AlignAndDistribute): De forma sencilla ordena, alinea y distribuye objetos.
  - [Select Sim](https://kushiro.gumroad.com/l/smjsbe): Selecciona caras o vertices "similares" (selecciona más rápido).
+ - [Easy Lattice](https://blenderaddons.store/b/easy-lattice-modifier): Facilita la transformación del modelado por zonas.
 </details>
 
 <details>
@@ -106,17 +106,17 @@
  - *Node Arrange*: Para ordenar nodos de shading.
  - *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.
  - [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Colección de miles de materiales y assets.
- - [Asset Bridge](https://github.com/strike-digital/asset_bridge): Add-on no oficial para AmbientCG y PolyHaven.
- - [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets.
- - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets.
- - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas de Substance 3D.
+ - [Asset Bridge](https://github.com/strike-digital/asset_bridge): Add-on no oficial para utilizar materiales de AmbientCG y PolyHaven.
+ - [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets/modelos.
+ - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets/modelos.
+ - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas/materiales de Substance 3D.
  - [Sanctus Library](https://blendermarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender): Pack que, en la versión gratis, tiene texturas procedurales y generadores interesantes.
- - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
  - [Buildify](https://paveloliva.gumroad.com/l/buildify): Generador de edificios de distintos tipos.
+ - [PSD-Layers](https://splitcg.gumroad.com/l/psd-layers) ([web](https://psd-layers.com/)): Permite pintar texturas por capas, como si fuera un editor de imagenes.
  - [MatLayer](https://github.com/LoganFairbairn/matlayer): Solución de edición y exportación de materiales basada en capas con muchas funciones.
  - [UltimateSkin](https://kuhantilope.gumroad.com/l/ultimate-skin): Material procedural realista de piel.
- - [Anti-Seam](https://thatimster.gumroad.com/l/juLNpq): Elimina bordes repetitivos en texturas.
  - [Procedural Crowds](https://cgcool.gumroad.com/l/tmnky): Manera sencilla y rápida de añadir multitudes.
+ - [Anti-Seam](https://thatimster.gumroad.com/l/juLNpq): Elimina bordes repetitivos en texturas.
  - [DeepBump](https://github.com/HugoTini/DeepBump): Genera mapa de normales, displacement, etc desde la textura de color.
  - [Dream Textures](https://github.com/carson-katri/dream-textures): Integra la IA Stable Diffusion para crear texturas, upscale, etc (se ejecuta en local).
  - [DT2DB](https://amanbairwal.gumroad.com/l/dt2db): Combinado con Dream Textures para que no solo sea textura de imagen, si no PBR.
@@ -124,54 +124,41 @@
  - [Auto-bake Tools](https://github.com/GarikDog/autobake_tools): Bakeo fácil de texturas.
  - [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT): Otra para gestionar el bakeo de texturas.
  - [KH Materials](https://www.youtube.com/watch?v=4xmzEXkKYww): Algunas herramientas rápidas para nodos de shaders (mezcla de color, bump, etc).
- - [Engon](https://blendermarket.com/products/engon/): Otro que importa materiales y assets (algún paquete free).
- - [PSD-Layers](https://splitcg.gumroad.com/l/psd-layers) ([web](https://psd-layers.com/)): Permite pintar texturas por capas, como si fuera un editor de imagenes.
+ - [Engon](https://blendermarket.com/products/engon/): Otra libería que tiene materiales y assets (con algunos paquetes gratis).
  - [MakeHuman MPFB](http://www.makehumancommunity.org/): Aplicación gratuita con integración en Blender para hacer modelados humanos de calidad mediana.
+ - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
 </details>
 
 <details>
   <summary><b>Escenario y vegetación</b></summary>
  
  - *ANT Landscape*: Para hacer terrenos sencillos.
- - *Real Snow*: Para añadir nieve de forma sencilla.
- - [Gscatter](https://store.gscatter.com/account/gscatter): Add-on para vegetación y entorno.
  - [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
+ - [Gscatter](https://store.gscatter.com/account/gscatter): Add-on para vegetación y entorno.
  - [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
- - [Gaea](https://quadspinner.com/download): Software de 3os para generar entornos naturales ([otro](https://www.world-machine.com/)).
- - [Real Terrain](https://maroc777772.gumroad.com/l/iznvi): Genera terreno, 35 tipos.
+ - [Gaea](https://quadspinner.com/download): Software para generar entornos naturales, que luego se puede utilizar en Blender ([otro](https://www.world-machine.com/)).
+ - [Real Terrain](https://maroc777772.gumroad.com/l/iznvi): Genera terreno, 35 tipos diferentes.
  - [Auto-Terrainer](https://unicornhunter.gumroad.com/l/AutoTerrainer): Generación simple y sencilla de terreno.
  - [Blender OSM](https://prochitecture.gumroad.com/l/blender-osm): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
  - [Blender GIS](https://github.com/domlysz/BlenderGIS): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
- - [Alt Tab Ocean & Water](https://blendermarket.com/products/alt-tab-water): Generar océanos y zonas de agua.
- - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
- - [Dynamic Stylized Water](https://dnslv.gumroad.com/l/dynwaterGN): Geonode para agua.
- - [Snow + Procedural Ice Generator](https://blendermarket.com/products/free-snow/): Para generar nieve y hielo en superificies.
- - [Snowify](https://ninodefoq.gumroad.com/l/Snowify): Para generar nieve en superficies (comparar con el nativo).
  - [Ivy Generator](https://abaga.gumroad.com/l/ivygen): Geometry node para generar hiedras, musgo, etc.
  - [GBH Tool](https://gixo.gumroad.com/l/GBHTool): Herramientas avanzadas para pelo.
- - [Geometry Nodes Hair Generator](https://xeofrios.gumroad.com/l/gnhair): Geometry Node para pelo pintando.
+ - [Geometry Nodes Hair Generator](https://xeofrios.gumroad.com/l/gnhair): Geometry Node para añadir pelo pintando.
 </details>
 
 <details>
   <summary><b>Iluminación, nubes, ambientación y detalles</b></summary>
 
   - *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
+  - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
   - [Real Sky](https://web.archive.org/web/20230506170800/https://3d-wolf.com/products/sky/): Genera cielo, sol y nubes.
   - [Sky-Lab](https://blenderlabs.gumroad.com/l/sky-lab): Facilita añadir un cielo con horizonte/sol.
   - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
   - [Real Clouds](https://cgcool.gumroad.com/l/pxmfd): Para generar nubes.
   - [KH-Cloud](https://www.youtube.com/watch?v=JWKrQoowQsY): Para generar nubes.
   - [Cloud Shader](https://advladart.gumroad.com/l/dmnvv): Para generar nubes.
-  - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
   - [Gaffer](https://github.com/gregzaal/Gaffer): Gestión rápida de iluminación y HDRi.
-  - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis ([versión anterior](https://blendermarket.com/products/alt-tab-easy-fog)).
-  - [Dynamic Rain](https://cgcool.gumroad.com/l/lxmii): Genera lluvia (sin charcos).
-  - [Rain Generator](https://jepe.gumroad.com/l/raingenerator): Genera lluvia.
-  - [Rainy Window Shader](https://blueinversion.gumroad.com/l/ZXBOB): Genera efecto de gotas de agua.
   - [Dust Particles+](https://blendermarket.com/products/dust-particles): Añade partículas de forma sencilla.
-  - [Smoke Scatter](https://cgcool.gumroad.com/l/ybsfu): Genera humo de forma sencilla (¿sólo Eevee?).
-  - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?).
-  - [Smoke & Fire FX](https://studio.blender.org/films/charge/gallery/?asset=6132): Efecto de fuego y humo con geometry nodes.
   - [Bird Generator Setup](https://blenderesse.gumroad.com/l/birdgenerator): Para generar pájaros (por ejemplo de fondo).
   - [Cobweb Generator](https://vicube-animation.com/free-assets/geometry-nodes/): Para generar telas de araña.
   - [Light Painter](https://github.com/semagnum/light-painter): Genera iluminación pintando por zonas.
@@ -179,6 +166,24 @@
   - [wolfstudio.io Generators](https://wolfstudio.io/assets/): Pack de generadores (fuego, partículas, enredaderas, rayos, etc).
   - [Screen Space Global Illumination for Eevee](https://n0451.gumroad.com/l/PgyXc): Mejora la iluminación en el renderizador Eevee.
   - [Ultimate Lightning Pack](https://hellfx.gumroad.com/l/lightningpack): Genera rayos fácilmente.
+</details>
+
+<details>
+  <summary><b>Elementos (agua, lluvia, hielo, fuego y humo)</b></summary>
+ 
+  - *Real Snow*: Para añadir nieve de forma sencilla.
+  - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis ([versión anterior](https://blendermarket.com/products/alt-tab-easy-fog)).
+  - [Dynamic Rain](https://cgcool.gumroad.com/l/lxmii): Genera lluvia (sin charcos).
+  - [Rain Generator](https://jepe.gumroad.com/l/raingenerator): Genera lluvia.
+  - [Rainy Window Shader](https://blueinversion.gumroad.com/l/ZXBOB): Genera efecto de gotas de agua.
+  - [Alt Tab Ocean & Water](https://blendermarket.com/products/alt-tab-water): Genera océanos y zonas de agua.
+  - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
+  - [Dynamic Stylized Water](https://dnslv.gumroad.com/l/dynwaterGN): Geometry node para generar agua.
+  - [Snow + Procedural Ice Generator](https://blendermarket.com/products/free-snow/): Para generar nieve y hielo en superificies.
+  - [Snowify](https://ninodefoq.gumroad.com/l/Snowify): Para generar nieve en superficies (comparar con el nativo).
+  - [Smoke Scatter](https://cgcool.gumroad.com/l/ybsfu): Genera humo de forma sencilla (¿sólo Eevee?).
+  - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?).
+  - [Smoke & Fire FX](https://studio.blender.org/films/charge/gallery/?asset=6132): Efecto de fuego y humo con geometry nodes.
 </details>
 
 <details>
