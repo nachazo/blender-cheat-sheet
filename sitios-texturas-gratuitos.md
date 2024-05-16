@@ -231,22 +231,32 @@
 * **Polycam**: https://poly.cam - *Herramientas IA online para generar modelos 3D simples, capturas 3D y trabajo con texturas.* 
 * **lumalabs**: https://lumalabs.ai - *Herramientas IA online para generar modelos 3D simples o capturas escenas con Gaussian Splating.*
 * **3dpresso**: https://3dpresso.ai - *Herramienta IA para generar modelo 3D desde imagenes de video.*
+  
 &nbsp;
+
 * **Stable Projectorz**: https://stableprojectorz.com - *Genera texturas mediante IA en local, con Stable Diffusion.* 
 * **Texture Lab**: https://www.texturelab.xyz - *Herramienta IA online para generar texturas simples.*
+
 &nbsp;
+
 * **Meshy**: https://www.meshy.ai - *Herramienta IA online para generar modelos 3D simples o capturados en 3D y trabajo con texturas.*
 * **CSM**: https://3d.csm.ai - *Herramienta IA online para generar modelos 3D simples desde imagen.*
 * **Spline**: https://spline.design - *Herramienta IA online para generar modelos 3D simples desde imagen.*
+
 &nbsp;
+
 * **Reality Capture**: https://www.capturingreality.com - *Aplicación de fotogrametría de Epic.*
 * **Meshroom**: https://github.com/alicevision/Meshroom - *Aplicación de fotogrametría open source*
 * **Metashape**: https://www.agisoft.com/downloads/installer - *Aplicación de fotogrametría de pago.*
 * Aplicaciones móviles para fotogrametría: [RealityScan](https://www.unrealengine.com/en-US/realityscan) (de Epic), [KIRI Engine](https://www.kiriengine.app/), [poly.cam](https://poly.cam/), [MagiScan](https://magiscan.app/)
+
 &nbsp;
+
 * **Instant Meshes**: https://github.com/wjakob/instant-meshes - *Aplicación de retopología de mallas en quads, para optimizar modelos.*
 * **MeshLab**: https://www.meshlab.net - *Aplicación para gestión, procesdo y limpiado de mallas y modelados*
+
 &nbsp;
+
 * **3D Gaussian Splatting Blender Addon**: https://github.com/ReshotAI/gaussian-splatting-blender-addon - *Add-on para cargar escenas de Gaussian Splatting en Blender, experimental.*
  
 &nbsp;
