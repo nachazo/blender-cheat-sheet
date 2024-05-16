@@ -59,6 +59,7 @@
 | [Gscatter](https://store.gscatter.com/assets) | `8` | Gratis, sí uso comercial | 200 | Vegetación. Tiene [add-on para Blender](https://store.gscatter.com/account/gscatter) |
 | [Thangs](https://thangs.com) | `8` | Varias, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases) |
 | [Turbosquid](https://www.turbosquid.com) | `8` | Varias, hay free | ~? | - |
+| [Three D Scans](https://threedscans.com) | `7` | Libre | ~? | Escaneos de estatuas museos |
 | [Free3D](https://free3d.com/3d-models/) | `7` | Varias, hay free | ~10.000 | - |
 | [Clara.io](https://clara.io/library) | `7` | Dominio público o CC | ~100.000 | - |
 | [MyMiniFactory](https://www.myminifactory.com) | `7` | Varias, CC-BY, no comercial, de pago, etc | ~? | Sobretodo impresión 3D de juegos de mesa |
@@ -235,9 +236,18 @@
  
 * **Meshy**: https://www.meshy.ai
   * *Herramienta IA online para generar modelos 3D simples o capturados en 3D y trabajo con texturas.*
+
+* **CSM**: https://3d.csm.ai
+  * *Herramienta IA online para generar modelos 3D simples desde imagen.* 
+
+* **Spline**: https://spline.design
+  * *Herramienta IA online para generar modelos 3D simples desde imagen.*
  
 * **Texture Lab**: https://www.texturelab.xyz
-  * *Herramienta IA online para generar texturas simples.* 
+  * *Herramienta IA online para generar texturas simples.*
+ 
+* **3D Gaussian Splatting Blender Addon**: https://github.com/ReshotAI/gaussian-splatting-blender-addon
+  * *Add-on para cargar escenas de Gaussian Splatting en Blender, experimental.*
  
 &nbsp;
 
