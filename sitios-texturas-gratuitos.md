@@ -127,6 +127,7 @@
  - [Engon](https://blendermarket.com/products/engon/): Otra libería que tiene materiales y assets (con algunos paquetes gratis).
  - [MakeHuman MPFB](http://www.makehumancommunity.org/): Aplicación gratuita con integración en Blender para hacer modelados humanos de calidad mediana.
  - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
+ - [Home Builder 3](https://creativedesigner3d.com/2023/03/03/home-builder-3/): Herramienta de arquitectura para diseño de interiores de viviendas.
 </details>
 
 <details>
@@ -139,11 +140,16 @@
  - [Gaea](https://quadspinner.com/download): Software para generar entornos naturales, que luego se puede utilizar en Blender ([otro](https://www.world-machine.com/)).
  - [Real Terrain](https://maroc777772.gumroad.com/l/iznvi): Genera terreno, 35 tipos diferentes.
  - [Auto-Terrainer](https://unicornhunter.gumroad.com/l/AutoTerrainer): Generación simple y sencilla de terreno.
- - [Blender OSM](https://prochitecture.gumroad.com/l/blender-osm): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
+ - [e-on software](https://es-la.bentley.com/software/e-on-software-free-downloads/): Varios softwares de terceros para vegetación y entorno (eran de pago y ahora son gratis).
+ - [Natural Set](https://chuckcg.gumroad.com/l/joGTC): Sistema sencillo de vegetación, configurable y con zonas de calor.
  - [Blender GIS](https://github.com/domlysz/BlenderGIS): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
- - [Ivy Generator](https://abaga.gumroad.com/l/ivygen): Geometry node para generar hiedras, musgo, etc.
+ - [Blender OSM](https://prochitecture.gumroad.com/l/blender-osm): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
+ - [Ivy Gen](https://abaga.gumroad.com/l/ivygen): Geometry node para generar hiedras, musgo, etc.
+ - [Ivy Generator Pro](https://maroc777772.gumroad.com/l/IvyGeneratorPro): Otro para generar hiedras de forma fácil.
  - [GBH Tool](https://gixo.gumroad.com/l/GBHTool): Herramientas avanzadas para pelo.
  - [Geometry Nodes Hair Generator](https://xeofrios.gumroad.com/l/gnhair): Geometry Node para añadir pelo pintando.
+ - [Rock Generator Blender Geometry Nodes](https://blenderaddons.store/b/rock-generator-blender-geometry-nodes): Generador de rocas.
+ - [Free Stair Generator Blender Geometry Node](https://blenderaddons.store/b/free-stair-generator-blender-geometry-node): Generador de escaleras (opciones, etc).
 </details>
 
 <details>
@@ -151,7 +157,7 @@
 
   - *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
   - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
-  - [Real Sky](https://web.archive.org/web/20230506170800/https://3d-wolf.com/products/sky/): Genera cielo, sol y nubes.
+  - [Real Sky](https://web.archive.org/web/20230506170800/https://3d-wolf.com/products/sky/): Genera cielo, sol y nubes ([gitlab](https://gitlab.com/marcopavanello/real-sky)).
   - [Sky-Lab](https://blenderlabs.gumroad.com/l/sky-lab): Facilita añadir un cielo con horizonte/sol.
   - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
   - [Real Clouds](https://cgcool.gumroad.com/l/pxmfd): Para generar nubes.
@@ -226,6 +232,9 @@
  - [Mesh Tension](https://github.com/chiragraman/mesh-tension): Modificador para replicar "tensión" y arrugas en zonas comprimidas de un objeto.
  - [KH Memory](https://www.youtube.com/watch?v=6kLQPC2B_qc): Algunas herramientas para limpiar memoria y alternar entre high poly y low poly.
  - [Bystedts cloth builder](https://3dbystedt.gumroad.com/l/bystedtsClothBuilder): Ayuda a generar el efecto de la ropa.
+ - [Digital Lens Dirt Pack](https://hellfx.gumroad.com/l/digitallensdirt): Añade de forma sencilla un efecto de suciedad de lente.
+ - [Free Welder Objects](https://blender-addons.gumroad.com/l/free_welder_generator): "Mezcla" objetos de forma "natural" añadiendo un efecto de reborde.
+ - [MACHIN3tools](https://github.com/nessaki/MACHIN3tools): Paquete de herramientas para modelado más en detalle (versión 2021 gratis, [info de pago](https://machin3.gumroad.com/l/MACHIN3tools))
 </details>
 
 
