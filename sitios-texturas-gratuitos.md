@@ -61,6 +61,7 @@
 | [Gscatter](https://store.gscatter.com/assets) | `8` | Gratis, sí uso comercial | 200 | Vegetación. Tiene [add-on para Blender](https://store.gscatter.com/account/gscatter) |
 | [Thangs](https://thangs.com) | `8` | Varias, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases) |
 | [Turbosquid](https://www.turbosquid.com) | `8` | Varias, hay free | ~? | - |
+| [The Base Mesh](https://www.thebasemesh.com/) | `7` | CC0 | ~1.000 | Modelado básico, sin texturas |
 | [Three D Scans](https://threedscans.com) | `7` | Libre | ~? | Escaneos de estatuas museos |
 | [Free3D](https://free3d.com/3d-models/) | `7` | Varias, hay free | ~10.000 | - |
 | [Clara.io](https://clara.io/library) | `7` | Dominio público o CC | ~100.000 | - |
@@ -127,6 +128,7 @@
  - [Engon](https://blendermarket.com/products/engon/): Otra libería que tiene materiales y assets (con algunos paquetes gratis).
  - [MakeHuman MPFB](http://www.makehumancommunity.org/): Aplicación gratuita con integración en Blender para hacer modelados humanos de calidad mediana.
  - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
+ - [Daz3D](https://www.daz3d.com/): Software de terceros para crear personajes. Permite exportar e importar a Blender.
  - [Home Builder 3](https://creativedesigner3d.com/2023/03/03/home-builder-3/): Herramienta de arquitectura para diseño de interiores de viviendas.
 </details>
 
@@ -171,7 +173,7 @@
   - [Blender QLE](https://github.com/don1138/blender-qle): Genera un ambiente de iluminación rápido, en un click.
   - [wolfstudio.io Generators](https://wolfstudio.io/assets/): Pack de generadores (fuego, partículas, enredaderas, rayos, etc).
   - [Screen Space Global Illumination for Eevee](https://n0451.gumroad.com/l/PgyXc): Mejora la iluminación en el renderizador Eevee.
-  - [Ultimate Lightning Pack](https://hellfx.gumroad.com/l/lightningpack): Genera rayos fácilmente.
+  - [Procedural Cloudscape Generation](https://blenderartists.org/t/procedural-cloudscape-generation-in-cycles-now-eevee/694700): Archivo .blend con un generador procedural de nubes.
 </details>
 
 <details>
@@ -190,6 +192,8 @@
   - [Smoke Scatter](https://cgcool.gumroad.com/l/ybsfu): Genera humo de forma sencilla (¿sólo Eevee?).
   - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?).
   - [Smoke & Fire FX](https://studio.blender.org/films/charge/gallery/?asset=6132): Efecto de fuego y humo con geometry nodes.
+  - [Ultimate Lightning Pack](https://hellfx.gumroad.com/l/lightningpack): Genera rayos fácilmente.
+  - [Blender Dynamic VFX](https://blendermarket.com/products/blender-dynamic-vfx---elemental-asset-pack): Otro pack con versión gratis para efectos de fuego, rayos, etc.
 </details>
 
 <details>
@@ -207,6 +211,7 @@
  - [Physics Dropper](https://blendermarket.com/products/physics-dropper): Replica físicas para colocar objetos (link gratis a github dentro).
  - [Right Mouse Navigation](https://github.com/SpectralVectors/RightMouseNavigation): Usa el walk/fly navigation con el botón derecho del ratón.
  - [Camera Plane](https://extensions.blender.org/add-ons/lfs-camera-plane/): Para poner fondos de imagen detrás y orientado con la vista de cámara.
+ - [fSpy](https://fspy.io/) + [add-on](https://github.com/stuffmatic/fSpy-Blender): Cuadra la perspectiva 3D de la cámara sobre un video, para añadir trabajo en 3D a un video.
  - [Ragdoll](https://learn.ragdolldynamics.com/download/): Aplica físicas en tiempo real para tus animaciones (gratis no comercial).
  - [meshcapade](https://meshcapade.com/): Aplicación web para exportar animaciones sobre modelos (librería y generación).
 </details>
@@ -224,6 +229,7 @@
  - [Parallax Occlusion Nodesetup](https://mrrolord.gumroad.com/l/BlenderPOM): Otra forma de generar geometria con displacement y normals.
  - [Real Damage](https://blendermarket.com/products/real-damage---realistic-internal-damage): Versión gratis para hacer pequeñas roturas en objetos.
  - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
+ - [Erode It](https://blendermarket.com/products/erode-it): Otra para añadir daños a bordes de objetos en un click.
  - [Grungit](https://abdoubouam.gumroad.com/l/grungit): Añade suciedad y óxido en un click.
  - [Pixel Art rendering](https://lucasroedel.gumroad.com/l/pixel_art): Para renderizar en estilo pixel art.
  - [Image 2 Mesh](https://www.youtube.com/watch?v=cXnETy9wHp4): Genera geometría desde imagenes.
