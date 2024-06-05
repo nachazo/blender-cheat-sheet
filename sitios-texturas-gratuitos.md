@@ -186,6 +186,7 @@
   - [Rainy Window Shader](https://blueinversion.gumroad.com/l/ZXBOB): Genera efecto de gotas de agua.
   - [Alt Tab Ocean & Water](https://blendermarket.com/products/alt-tab-water): Genera océanos y zonas de agua.
   - [Underwater Surface Caustics](https://smouse.gumroad.com/l/dztcdm): Para generar efecto bajo el agua.
+  - [Liquid Bubble Addon](https://maroc777772.gumroad.com/l/Liquid-Bubble-Addon): Para generar líquidos.
   - [Dynamic Stylized Water](https://dnslv.gumroad.com/l/dynwaterGN): Geometry node para generar agua.
   - [Snow + Procedural Ice Generator](https://blendermarket.com/products/free-snow/): Para generar nieve y hielo en superificies.
   - [Snowify](https://ninodefoq.gumroad.com/l/Snowify): Para generar nieve en superficies (comparar con el nativo).
@@ -231,6 +232,7 @@
  - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
  - [Erode It](https://blendermarket.com/products/erode-it): Otra para añadir daños a bordes de objetos en un click.
  - [Grungit](https://abdoubouam.gumroad.com/l/grungit): Añade suciedad y óxido en un click.
+ - [Free Cell Fracture](https://blenderaddons.store/b/free-cell-fracture-modifier-for-blender-4-1): Geometry node para fracturar objetos.
  - [Pixel Art rendering](https://lucasroedel.gumroad.com/l/pixel_art): Para renderizar en estilo pixel art.
  - [Image 2 Mesh](https://www.youtube.com/watch?v=cXnETy9wHp4): Genera geometría desde imagenes.
  - [RetopoFlow](https://github.com/CGCookie/retopoflow): Repotología (optimización de modelos) para Blender.
@@ -240,7 +242,8 @@
  - [Bystedts cloth builder](https://3dbystedt.gumroad.com/l/bystedtsClothBuilder): Ayuda a generar el efecto de la ropa.
  - [Digital Lens Dirt Pack](https://hellfx.gumroad.com/l/digitallensdirt): Añade de forma sencilla un efecto de suciedad de lente.
  - [Free Welder Objects](https://blender-addons.gumroad.com/l/free_welder_generator): "Mezcla" objetos de forma "natural" añadiendo un efecto de reborde.
- - [MACHIN3tools](https://github.com/nessaki/MACHIN3tools): Paquete de herramientas para modelado más en detalle (versión 2021 gratis, [info de pago](https://machin3.gumroad.com/l/MACHIN3tools))
+ - [MACHIN3tools](https://github.com/nessaki/MACHIN3tools): Paquete de herramientas para modelado más en detalle (versión 2021 gratis, [info de pago](https://machin3.gumroad.com/l/MACHIN3tools)).
+ - [Painterly Planes](https://blenderaddons.store/b/1gFPe): Aplica un efecto de pintura acrílica artística a los objetos.
 </details>
 
 
