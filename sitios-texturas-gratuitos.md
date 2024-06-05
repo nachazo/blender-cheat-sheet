@@ -106,17 +106,23 @@
  - *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).
  - *Node Arrange*: Para ordenar nodos de shading.
  - *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.
+ - 
  - [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Colección de miles de materiales y assets.
  - [Asset Bridge](https://github.com/strike-digital/asset_bridge): Add-on no oficial para utilizar materiales de AmbientCG y PolyHaven.
  - [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets/modelos.
  - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets/modelos.
  - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas/materiales de Substance 3D.
  - [Sanctus Library](https://blendermarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender): Pack que, en la versión gratis, tiene texturas procedurales y generadores interesantes.
- - [Buildify](https://paveloliva.gumroad.com/l/buildify): Generador de edificios de distintos tipos.
+ - 
  - [PSD-Layers](https://splitcg.gumroad.com/l/psd-layers) ([web](https://psd-layers.com/)): Permite pintar texturas por capas, como si fuera un editor de imagenes.
  - [MatLayer](https://github.com/LoganFairbairn/matlayer): Solución de edición y exportación de materiales basada en capas con muchas funciones.
+ - [Ucupaint](https://github.com/ucupumar/ucupaint): Para administrar/pintar capas de texturas.
+ - [HAS Paint layers](https://hirourk.gumroad.com/l/haspaintlayers): Más para pintar por capas.
+ - 
  - [UltimateSkin](https://kuhantilope.gumroad.com/l/ultimate-skin): Material procedural realista de piel.
  - [Procedural Crowds](https://cgcool.gumroad.com/l/tmnky): Manera sencilla y rápida de añadir multitudes.
+ - [Buildify](https://paveloliva.gumroad.com/l/buildify): Generador de edificios de distintos tipos.
+ - 
  - [Anti-Seam](https://thatimster.gumroad.com/l/juLNpq): Elimina bordes repetitivos en texturas.
  - [DeepBump](https://github.com/HugoTini/DeepBump): Genera mapa de normales, displacement, etc desde la textura de color.
  - [Dream Textures](https://github.com/carson-katri/dream-textures): Integra la IA Stable Diffusion para crear texturas, upscale, etc (se ejecuta en local).
@@ -126,6 +132,7 @@
  - [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT): Otra para gestionar el bakeo de texturas.
  - [KH Materials](https://www.youtube.com/watch?v=4xmzEXkKYww): Algunas herramientas rápidas para nodos de shaders (mezcla de color, bump, etc).
  - [Engon](https://blendermarket.com/products/engon/): Otra libería que tiene materiales y assets (con algunos paquetes gratis).
+ - 
  - [MakeHuman MPFB](http://www.makehumancommunity.org/): Aplicación gratuita con integración en Blender para hacer modelados humanos de calidad mediana.
  - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
  - [Daz3D](https://www.daz3d.com/): Software de terceros para crear personajes. Permite exportar e importar a Blender.
