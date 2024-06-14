@@ -60,6 +60,7 @@
 | [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader) | `8` | Gratis, royalty free | ~170 | Vegetación. Tiene [add-on Biome Reader](https://www.geoscatter.com/download.html#biome-reader) |
 | [Gscatter](https://store.gscatter.com/assets) | `8` | Gratis, sí uso comercial | 200 | Vegetación. Tiene [add-on para Blender](https://store.gscatter.com/account/gscatter) |
 | [Thangs](https://thangs.com) | `8` | Varias, hay CC0 | ~? Multisitio | Tiene [add-on para Blender](https://github.com/physna/thangs-blender-addon/releases) |
+| [JangaFX Free VDB](https://www.jangafx.com/software/embergen/download/free-vdb-animations/) | `8` | CC0 | 15 | Nubes, fuego, humo... en formato VBD |
 | [Turbosquid](https://www.turbosquid.com) | `8` | Varias, hay free | ~? | - |
 | [The Base Mesh](https://www.thebasemesh.com/) | `7` | CC0 | ~1.000 | Modelado básico, sin texturas |
 | [Three D Scans](https://threedscans.com) | `7` | Libre | ~? | Escaneos de estatuas museos |
