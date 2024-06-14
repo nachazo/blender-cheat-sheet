@@ -114,6 +114,7 @@
  - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets/modelos.
  - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas/materiales de Substance 3D.
  - [Sanctus Library](https://blendermarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender): Pack que, en la versión gratis, tiene texturas procedurales y generadores interesantes.
+ - [Baga Pie](https://blendermarket.com/products/bagapie-assets): La versión gratis trae herramientas y generadores simples.
  - 
  - [PSD-Layers](https://splitcg.gumroad.com/l/psd-layers) ([web](https://psd-layers.com/)): Permite pintar texturas por capas, como si fuera un editor de imagenes.
  - [MatLayer](https://github.com/LoganFairbairn/matlayer): Solución de edición y exportación de materiales basada en capas con muchas funciones.
