@@ -86,6 +86,7 @@
   <summary><b>QoL (calidad de vida)</b></summary>
 
  - *Extra Objects*: Más formas y tipos de objeto como base de modelados.
+ - *Tissue*: Para aplicar un objeto sobre otro (para hacer patrones p.ej.) sustituyendo o superponiendo a su geometría de forma sencilla.
  - *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
  - *Bool Tool*: Herramientas más rápidas para aplicar y usar booleanas.
  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
