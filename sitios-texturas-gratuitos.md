@@ -85,19 +85,19 @@
 <details>
   <summary><b>QoL (calidad de vida)</b></summary>
 
- - *Extra Objects*: Más formas y tipos de objeto como base de modelados.
- - *Tissue*: Para aplicar un objeto sobre otro (para hacer patrones p.ej.) sustituyendo o superponiendo a su geometría de forma sencilla.
- - *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
+ - ⭐️ *Extra Objects*: Más formas y tipos de objeto como base de modelados.
+ - ⭐️ *Tissue*: Para aplicar un objeto sobre otro (para hacer patrones p.ej.) sustituyendo o superponiendo a su geometría de forma sencilla.
+ - ⭐️ *Loop Tools*: Opciones extra cuando tienes un loop seleccionado.
  - *Bool Tool*: Herramientas más rápidas para aplicar y usar booleanas.
  - *Copy Attributes Menu*: Al copiar objetos, más opciones para copiar-pegar distintos atributos (modificadores, escala...).
- - *Align Tools*: Alinea los objetos seleccionados respecto al objeto activo.
+ - ⭐️ *Align Tools*: Alinea los objetos seleccionados respecto al objeto activo.
  - *3D Navigation*: Herramientas de navegación comunes y emula los atajos del teclado numérico.
- - [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
+ - ⭐️ [UV Squares](https://github.com/Radivarig/UvSquares): Corrige el mapeado UV en zonas curvas.
  - [Unwrap Me](https://github.com/3e33/UnwrapMe): Para generar mapeados UV con mejores marcas ([descripción](https://blendermarket.com/products/unwrap-me)).
- - [Set Origin](https://emilsvfx.gumroad.com/l/cidqwp): Cambia el origen del objeto de forma más rápida.
+ - ⭐️ [Set Origin](https://emilsvfx.gumroad.com/l/cidqwp): Cambia el origen del objeto de forma más rápida.
  - [Drop It](https://andreasaust.gumroad.com/l/drop_it): Tan sencillo como dejar "caer" objetos por colisión hacia "el suelo".
  - [Dynamic Radial Arrays](https://ethansubblue.gumroad.com/l/DynamicRadialArray): Arrays circulares/radiales desde el punto de origen fáciles.
- - [Align and Distribute](https://amanbairwal.gumroad.com/l/AlignAndDistribute): De forma sencilla ordena, alinea y distribuye objetos.
+ - ⭐️ [Align and Distribute](https://amanbairwal.gumroad.com/l/AlignAndDistribute): De forma sencilla ordena, alinea y distribuye objetos.
  - [Select Sim](https://kushiro.gumroad.com/l/smjsbe): Selecciona caras o vertices "similares" (selecciona más rápido).
  - [Easy Lattice](https://blenderaddons.store/b/easy-lattice-modifier): Facilita la transformación del modelado por zonas.
 </details>
@@ -109,13 +109,14 @@
  - *Node Arrange*: Para ordenar nodos de shading.
  - *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.
  - 
- - [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Colección de miles de materiales y assets.
- - [Asset Bridge](https://github.com/strike-digital/asset_bridge): Add-on no oficial para utilizar materiales de AmbientCG y PolyHaven.
- - [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets/modelos.
+ - ⭐️ [BlenderKit](https://www.blenderkit.com/get-blenderkit/): Colección de miles de materiales y assets.
+ - ⭐️ [Asset Bridge](https://github.com/strike-digital/asset_bridge): Add-on no oficial para utilizar materiales de AmbientCG y PolyHaven.
+ - ⭐️ [Sketchfab](https://github.com/sketchfab/blender-plugin/releases): Colección de miles de assets/modelos.
  - [Thangs](https://github.com/physna/thangs-blender-addon/releases): Colección de miles de assets/modelos.
- - [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas/materiales de Substance 3D.
+ - ⭐️ [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets?assetType=substanceMaterial): Para utilizar las texturas/materiales de Substance 3D.
  - [Sanctus Library](https://blendermarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender): Pack que, en la versión gratis, tiene texturas procedurales y generadores interesantes.
  - [Baga Pie](https://blendermarket.com/products/bagapie-assets): La versión gratis trae herramientas y generadores simples.
+ - [Engon](https://blendermarket.com/products/engon/): Otra libería que tiene materiales y assets (con algunos paquetes gratis).
  - 
  - [PSD-Layers](https://splitcg.gumroad.com/l/psd-layers) ([web](https://psd-layers.com/)): Permite pintar texturas por capas, como si fuera un editor de imagenes.
  - [MatLayer](https://github.com/LoganFairbairn/matlayer): Solución de edición y exportación de materiales basada en capas con muchas funciones.
@@ -127,14 +128,13 @@
  - [Buildify](https://paveloliva.gumroad.com/l/buildify): Generador de edificios de distintos tipos.
  - 
  - [Anti-Seam](https://thatimster.gumroad.com/l/juLNpq): Elimina bordes repetitivos en texturas.
- - [DeepBump](https://github.com/HugoTini/DeepBump): Genera mapa de normales, displacement, etc desde la textura de color.
+ - ⭐️ [DeepBump](https://github.com/HugoTini/DeepBump): Genera mapa de normales, displacement, etc desde la textura de color.
  - [Dream Textures](https://github.com/carson-katri/dream-textures): Integra la IA Stable Diffusion para crear texturas, upscale, etc (se ejecuta en local).
  - [DT2DB](https://amanbairwal.gumroad.com/l/dt2db): Combinado con Dream Textures para que no solo sea textura de imagen, si no PBR.
  - [Easy PBR](https://codeofart.gumroad.com/l/EasyPBR): Algunas facilidades para manejar texturas PBR (y bakear).
  - [Auto-bake Tools](https://github.com/GarikDog/autobake_tools): Bakeo fácil de texturas.
- - [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT): Otra para gestionar el bakeo de texturas.
+ - ⭐️ [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT): Otra para gestionar el bakeo de texturas.
  - [KH Materials](https://www.youtube.com/watch?v=4xmzEXkKYww): Algunas herramientas rápidas para nodos de shaders (mezcla de color, bump, etc).
- - [Engon](https://blendermarket.com/products/engon/): Otra libería que tiene materiales y assets (con algunos paquetes gratis).
  - 
  - [MakeHuman MPFB](http://www.makehumancommunity.org/): Aplicación gratuita con integración en Blender para hacer modelados humanos de calidad mediana.
  - [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/): Creación de modelos humanoides.
@@ -146,8 +146,8 @@
   <summary><b>Terreno y vegetación</b></summary>
  
  - *ANT Landscape*: Para hacer terrenos sencillos.
- - [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
- - [Gscatter](https://store.gscatter.com/account/gscatter): Add-on para vegetación y entorno.
+ - ⭐️ [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
+ - ⭐️ [Gscatter](https://store.gscatter.com/account/gscatter): Add-on para vegetación y entorno.
  - [Vegeta](https://cgcool.gumroad.com/l/wwxpyf): Añade vegetación sencilla en objetos, simple.
  - [Gaea](https://quadspinner.com/download): Software para generar entornos naturales, que luego se puede utilizar en Blender ([otro](https://www.world-machine.com/)).
  - 
@@ -156,7 +156,7 @@
  - [e-on software](https://es-la.bentley.com/software/e-on-software-free-downloads/): Varios softwares de terceros para vegetación y entorno (eran de pago y ahora son gratis).
  - [Natural Set](https://chuckcg.gumroad.com/l/joGTC): Sistema sencillo de vegetación, configurable y con zonas de calor.
  - 
- - [Blender GIS](https://github.com/domlysz/BlenderGIS): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
+ - ⭐️ [Blender GIS](https://github.com/domlysz/BlenderGIS): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
  - [Blender OSM](https://prochitecture.gumroad.com/l/blender-osm): Obtiene terreno con relieve directamente de servicios de satélite/mapas.
  - 
  - [Ivy Gen](https://abaga.gumroad.com/l/ivygen): Geometry node para generar hiedras, musgo, etc.
@@ -171,11 +171,11 @@
 <details>
   <summary><b>Iluminación, nubes, ambientación y detalles</b></summary>
 
-  - *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
-  - [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
+  - ⭐️ *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
+  - ⭐️ [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
   - 
-  - [Real Sky](https://web.archive.org/web/20230506170800/https://3d-wolf.com/products/sky/): Genera cielo, sol y nubes ([gitlab](https://gitlab.com/marcopavanello/real-sky)).
-  - [Sky-Lab](https://blenderlabs.gumroad.com/l/sky-lab): Facilita añadir un cielo con horizonte/sol.
+  - ⭐️ [Real Sky](https://web.archive.org/web/20230506170800/https://3d-wolf.com/products/sky/): Genera cielo, sol y nubes ([gitlab](https://gitlab.com/marcopavanello/real-sky)).
+  - ⭐️ [Sky-Lab](https://blenderlabs.gumroad.com/l/sky-lab): Facilita añadir un cielo con horizonte/sol.
   - [Pro Sky](https://cgcool.gumroad.com/l/wrdkrc): Facilita añadir un cielo con horizonte/sol.
   - [Real Clouds](https://cgcool.gumroad.com/l/pxmfd): Para generar nubes.
   - [KH-Cloud](https://www.youtube.com/watch?v=JWKrQoowQsY): Para generar nubes.
@@ -196,7 +196,7 @@
 <details>
   <summary><b>Elementos (agua, lluvia, hielo, fuego y humo)</b></summary>
  
-  - *Real Snow*: Para añadir nieve de forma sencilla.
+  - ⭐️ *Real Snow*: Para añadir nieve de forma sencilla.
   - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis ([versión anterior](https://blendermarket.com/products/alt-tab-easy-fog)).
   - [Dynamic Rain](https://cgcool.gumroad.com/l/lxmii): Genera lluvia (sin charcos).
   - [Rain Generator](https://jepe.gumroad.com/l/raingenerator): Genera lluvia.
@@ -211,7 +211,7 @@
   - 
   - [Smoke Scatter](https://cgcool.gumroad.com/l/ybsfu): Genera humo de forma sencilla (¿sólo Eevee?).
   - [Fire Scatter](https://cgcool.gumroad.com/l/xrwyo): Genera fuego de forma sencilla (¿sólo Eevee?).
-  - [Smoke & Fire FX](https://studio.blender.org/films/charge/gallery/?asset=6132): Efecto de fuego y humo con geometry nodes.
+  - ⭐️ [Smoke & Fire FX](https://studio.blender.org/films/charge/gallery/?asset=6132): Efecto de fuego y humo con geometry nodes.
   - [Ultimate Lightning Pack](https://hellfx.gumroad.com/l/lightningpack): Genera rayos fácilmente.
   - [Blender Dynamic VFX](https://blendermarket.com/products/blender-dynamic-vfx---elemental-asset-pack): Otro pack con versión gratis para efectos de fuego, rayos, etc.
 </details>
@@ -220,7 +220,7 @@
   <summary><b>Animación y cámara</b></summary>
 
  - *Turnaround Camera*: Genera animación de camara rotando un objeto fácilmente.
- - *Rigify*: Rigs rápidos y automáticos.
+ - ⭐️ *Rigify*: Rigs rápidos y automáticos.
  - [BoneDynamics Free](https://morelewd.gumroad.com/l/LhbhP): Mejora movimientos en bones.
  - [VirtuCamera](https://virtucamera.com/): Genera animaciones con videos.
  - [Real Camera](https://web.archive.org/web/20230506170743/https://3d-wolf.com/products/camera/): Añade opciones de control como si fuera una cámara real (exposición, etc).
@@ -228,10 +228,10 @@
  - [BlenRig](https://blendermarket.com/products/blenrig): Mejoras en rigging.
  - 
  - [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2): Movimiento de wiggles más realista.
- - [Camera Shakify](https://github.com/EatTheFuture/camera_shakify): Añade un pequeño movimiento que dota de realismo a la cámara en una animación.
+ - ⭐️ [Camera Shakify](https://github.com/EatTheFuture/camera_shakify): Añade un pequeño movimiento que dota de realismo a la cámara en una animación.
  - [Physics Dropper](https://blendermarket.com/products/physics-dropper): Replica físicas para colocar objetos (link gratis a github dentro).
  - 
- - [Right Mouse Navigation](https://github.com/SpectralVectors/RightMouseNavigation): Usa el walk/fly navigation con el botón derecho del ratón.
+ - ⭐️ [Right Mouse Navigation](https://github.com/SpectralVectors/RightMouseNavigation): Usa el walk/fly navigation con el botón derecho del ratón.
  - 
  - [Camera Plane](https://extensions.blender.org/add-ons/lfs-camera-plane/): Para poner fondos de imagen detrás y orientado con la vista de cámara.
  - [fSpy](https://fspy.io/) + [add-on](https://github.com/stuffmatic/fSpy-Blender): Cuadra la perspectiva 3D de la cámara sobre un video, para añadir trabajo en 3D a un video.
@@ -244,19 +244,18 @@
   <summary><b>Otros</b></summary>
 
  - *Images as Planes*: Método más sencillo para importar imagenes planas.
- - *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
+ - ⭐️ *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
  - *Cell Fracture*: Herramienta para fracturar/romper objetos.
- - [Smudge Mask Generator](https://blenderesse.gumroad.com/l/smudgemaskgenerator): Geometrynode para generar suciedad.
  - [Super Fast Render 3](https://pidgeontools.gumroad.com/l/SuperFastRender): Opciones para optimizar tiempo de renderizado.
  - [Camera Cull Pro](https://blenderlabs.gumroad.com/l/cameracullprov2): Elimina los modelados fuera del marco de cámara de renderizado (optimiza tiempos).
  - [nView Live](https://github.com/semagnum/nview-live): Otra como la anterior, por si no funcionara alguna de las dos.
  - 
  - [Parallax Occlusion Nodesetup](https://mrrolord.gumroad.com/l/BlenderPOM): Otra forma de generar geometria con displacement y normals.
  - 
- - [Real Damage](https://blendermarket.com/products/real-damage---realistic-internal-damage): Versión gratis para hacer pequeñas roturas en objetos.
  - [Edge Damage Modifier](https://bbbn19.gumroad.com/l/ildyzs): Geonode para generar daños en bordes de objetos.
  - [Erode It](https://blendermarket.com/products/erode-it): Otra para añadir daños a bordes de objetos en un click.
- - [Grungit](https://abdoubouam.gumroad.com/l/grungit): Añade suciedad y óxido en un click.
+ - ⭐️ [Grungit](https://abdoubouam.gumroad.com/l/grungit): Añade suciedad y óxido en un click.
+ - [Smudge Mask Generator](https://blenderesse.gumroad.com/l/smudgemaskgenerator): Geometrynode para generar suciedad.
  - [Free Cell Fracture](https://blenderaddons.store/b/free-cell-fracture-modifier-for-blender-4-1): Geometry node para fracturar objetos.
  - 
  - [Pixel Art rendering](https://lucasroedel.gumroad.com/l/pixel_art): Para renderizar en estilo pixel art.
@@ -268,7 +267,7 @@
  - [KH Memory](https://www.youtube.com/watch?v=6kLQPC2B_qc): Algunas herramientas para limpiar memoria y alternar entre high poly y low poly.
  - [Bystedts cloth builder](https://3dbystedt.gumroad.com/l/bystedtsClothBuilder): Ayuda a generar el efecto de la ropa.
  - 
- - [Digital Lens Dirt Pack](https://hellfx.gumroad.com/l/digitallensdirt): Añade de forma sencilla un efecto de suciedad de lente.
+ - ⭐️ [Digital Lens Dirt Pack](https://hellfx.gumroad.com/l/digitallensdirt): Añade de forma sencilla un efecto de suciedad de lente.
  - [Free Welder Objects](https://blender-addons.gumroad.com/l/free_welder_generator): "Mezcla" objetos de forma "natural" añadiendo un efecto de reborde.
  - [MACHIN3tools](https://github.com/nessaki/MACHIN3tools): Paquete de herramientas para modelado más en detalle (versión 2021 gratis, [info de pago](https://machin3.gumroad.com/l/MACHIN3tools)).
  - 
