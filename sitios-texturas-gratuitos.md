@@ -105,7 +105,7 @@
 <details>
   <summary><b>Materiales y assets</b></summary>
 
- - *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).
+ - ⭐️ *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).
  - *Node Arrange*: Para ordenar nodos de shading.
  - *Material Utilities*: Añade opciones de gestión en materiales y limpieza duplicados.
  - 
