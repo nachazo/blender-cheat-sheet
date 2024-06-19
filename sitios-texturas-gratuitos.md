@@ -51,7 +51,7 @@
 
 ## Assets/modelos gratuitos
 
-### Sitios de SOLO de assets/modelos gratuitos
+### Sitios SOLO de assets/modelos gratuitos
 
 | *Sitio* | *Nota* | *Licencia* | *Nº assets/modelos* | *Otros* | 
 | -       | :---:  | -          | -                   | -       |
