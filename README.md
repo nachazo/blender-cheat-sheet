@@ -16,3 +16,9 @@ So, here is. Any comments/errors are welcome.
 
 As now there are two pages, here is also a PDF version:
 * https://raw.githubusercontent.com/nachazo/blender-cheat-sheet/main/blender-cheat-sheet.pdf
+
+*__(More months later)__* 
+
+I've been collecting some free resources: assets, textures, add-ons, software... for 3D. I keep it updated, I leave the document here:
+
+* https://github.com/nachazo/blender-cheat-sheet/blob/main/recursos-gratuitos.md
