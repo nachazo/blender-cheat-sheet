@@ -10,12 +10,16 @@ So, here is. Any comments/errors are welcome.
 
 * https://raw.githubusercontent.com/nachazo/blender-cheat-sheet/main/blender-cheat-sheet.png
 
+&nbps;
+
 *__(Months later)__* I've been still practicing Blender. So I added a "second" page with more tips and annotations for my personal use. With the same spirit, I share it.
 
 * https://raw.githubusercontent.com/nachazo/blender-cheat-sheet/main/blender-cheat-sheet-more.png
 
 As now there are two pages, here is also a PDF version:
 * https://raw.githubusercontent.com/nachazo/blender-cheat-sheet/main/blender-cheat-sheet.pdf
+
+&nbps;
 
 *__(More months later)__* 
 
