@@ -101,6 +101,7 @@
  - [Select Sim](https://kushiro.gumroad.com/l/smjsbe): Selecciona caras o vertices "similares" (selecciona más rápido).
  - [Easy Lattice](https://blenderaddons.store/b/easy-lattice-modifier): Facilita la transformación del modelado por zonas.
 </details>
+&nbsp;
 
 <details>
   <summary>🎨 <b>Materiales y assets</b></summary>
@@ -141,6 +142,7 @@
  - [Daz3D](https://www.daz3d.com/): Software de terceros para crear personajes. Permite exportar e importar a Blender.
  - [Home Builder 3](https://creativedesigner3d.com/2023/03/03/home-builder-3/): Herramienta de arquitectura para diseño de interiores de viviendas.
 </details>
+&nbsp;
 
 <details>
   <summary>🌳 <b>Terreno y vegetación</b></summary>
@@ -167,6 +169,7 @@
  - [Rock Generator Blender Geometry Nodes](https://blenderaddons.store/b/rock-generator-blender-geometry-nodes): Generador de rocas.
  - [Free Stair Generator Blender Geometry Node](https://blenderaddons.store/b/free-stair-generator-blender-geometry-node): Generador de escaleras (opciones, etc).
 </details>
+&nbsp;
 
 <details>
   <summary>🌥️ <b>Iluminación, nubes, ambientación y detalles</b></summary>
@@ -192,6 +195,7 @@
   - [Screen Space Global Illumination for Eevee](https://n0451.gumroad.com/l/PgyXc): Mejora la iluminación en el renderizador Eevee.
   - [Procedural Cloudscape Generation](https://blenderartists.org/t/procedural-cloudscape-generation-in-cycles-now-eevee/694700): Archivo .blend con un generador procedural de nubes.
 </details>
+&nbsp;
 
 <details>
   <summary>🔥 <b>Elementos (agua, lluvia, hielo, fuego y humo)</b></summary>
@@ -215,6 +219,7 @@
   - [Ultimate Lightning Pack](https://hellfx.gumroad.com/l/lightningpack): Genera rayos fácilmente.
   - [Blender Dynamic VFX](https://blendermarket.com/products/blender-dynamic-vfx---elemental-asset-pack): Otro pack con versión gratis para efectos de fuego, rayos, etc.
 </details>
+&nbsp;
 
 <details>
   <summary>🎥 <b>Animación y cámara</b></summary>
@@ -239,6 +244,7 @@
  - [Ragdoll](https://learn.ragdolldynamics.com/download/): Aplica físicas en tiempo real para tus animaciones (gratis no comercial).
  - [meshcapade](https://meshcapade.com/): Aplicación web para exportar animaciones sobre modelos (librería y generación).
 </details>
+&nbsp;
 
 <details>
   <summary>🛠️ <b>Otros</b></summary>
@@ -273,7 +279,7 @@
  - 
  - [Painterly Planes](https://blenderaddons.store/b/1gFPe): Aplica un efecto de pintura acrílica artística a los objetos.
 </details>
-
+&nbsp;
 
 ## Otros
 
