@@ -83,7 +83,7 @@
 (En *cursiva*, add-ons <b>nativos</b> (built-in): simplemente activar desde Preferences → Add-ons).
 
 <details>
-  <summary><b>QoL (calidad de vida)</b></summary>
+  <summary>💡 <b>QoL (calidad de vida)</b></summary>
 
  - ⭐️ *Extra Objects*: Más formas y tipos de objeto como base de modelados.
  - ⭐️ *Tissue*: Para aplicar un objeto sobre otro (para hacer patrones p.ej.) sustituyendo o superponiendo a su geometría de forma sencilla.
@@ -103,7 +103,7 @@
 </details>
 
 <details>
-  <summary><b>Materiales y assets</b></summary>
+  <summary>🎨 <b>Materiales y assets</b></summary>
 
  - ⭐️ *Node Wrangler*: Amplía funcionalidades de nodos en Shaders (materiales).
  - *Node Arrange*: Para ordenar nodos de shading.
@@ -143,7 +143,7 @@
 </details>
 
 <details>
-  <summary><b>Terreno y vegetación</b></summary>
+  <summary>🌳 <b>Terreno y vegetación</b></summary>
  
  - *ANT Landscape*: Para hacer terrenos sencillos.
  - ⭐️ [The Plant Library](https://blendermarket.com/products/the-plant-library) + [Biome Reader](https://www.geoscatter.com/download.html#biome-reader): Add-on para vegetación y entorno.
@@ -169,7 +169,7 @@
 </details>
 
 <details>
-  <summary><b>Iluminación, nubes, ambientación y detalles</b></summary>
+  <summary>🌥️ <b>Iluminación, nubes, ambientación y detalles</b></summary>
 
   - ⭐️ *Dinamic Sky*: Gestiona luz ambiente, cielo y nubles con pocas opciones pero rápido.
   - ⭐️ [Easy HDRI](https://codeofart.gumroad.com/l/EasyHDRI): Ayuda a la gestión de iluminación HDRi.
@@ -194,7 +194,7 @@
 </details>
 
 <details>
-  <summary><b>Elementos (agua, lluvia, hielo, fuego y humo)</b></summary>
+  <summary>🔥 <b>Elementos (agua, lluvia, hielo, fuego y humo)</b></summary>
  
   - ⭐️ *Real Snow*: Para añadir nieve de forma sencilla.
   - [Alt Tab Easy Fog 2](https://blendermarket.com/products/alt-tab-easy-fog2/): Nieblas, un par gratis ([versión anterior](https://blendermarket.com/products/alt-tab-easy-fog)).
@@ -217,7 +217,7 @@
 </details>
 
 <details>
-  <summary><b>Animación y cámara</b></summary>
+  <summary>🎥 <b>Animación y cámara</b></summary>
 
  - *Turnaround Camera*: Genera animación de camara rotando un objeto fácilmente.
  - ⭐️ *Rigify*: Rigs rápidos y automáticos.
@@ -241,7 +241,7 @@
 </details>
 
 <details>
-  <summary><b>Otros</b></summary>
+  <summary>🛠️ <b>Otros</b></summary>
 
  - *Images as Planes*: Método más sencillo para importar imagenes planas.
  - ⭐️ *Scatter Objects*: Permite distribuir un objeto sobre el espacio de otro, con distintas opciones.
