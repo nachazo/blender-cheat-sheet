@@ -21,4 +21,4 @@ As now there are two pages, here is also a PDF version:
 
 I've been collecting some free resources: assets, textures, add-ons, software... for 3D. I keep it updated, I leave the document here:
 
-* https://github.com/nachazo/blender-cheat-sheet/blob/main/recursos-gratuitos.md
+* https://github.com/nachazo/blender-cheat-sheet/wiki/Recursos-gratuitos
